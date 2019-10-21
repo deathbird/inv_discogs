@@ -1,0 +1,4799 @@
+# Translations template for Discogs.
+# Copyright (C) 2019 Discogs
+# This file is distributed under the same license as the Discogs project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Discogs 0.1\n"
+"Report-Msgid-Bugs-To: language@discogs.com\n"
+"POT-Creation-Date: 2019-10-17 14:07-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: static/dev/javascripts/sections/guest-cart.js:3273
+msgid " for more."
+msgstr " for more."
+
+#: static/dev/javascripts/sections/guest-cart.js:3460
+#, python-format
+msgid " from %(n)s seller."
+msgid_plural " from %(n)s sellers."
+msgstr[0] " from %(n)s seller."
+msgstr[1] " from %(n)s sellers."
+
+#: static/dev/javascripts/sections/guest-cart.js:4043
+msgid "% positive "
+msgstr "% positive "
+
+#: static/dev/javascripts/sections/artist/tracks.js:2799
+#: static/dev/javascripts/sections/composition-recordings.js:2492
+#: static/dev/javascripts/sections/composition.js:2792
+#: static/dev/javascripts/sections/recording.js:2667
+#: static/dev/javascripts/sections/tracks.js:2492
+#, python-format
+msgid "%(artist)s has no Tracks yet"
+msgstr "%(artist)s has no Tracks yet"
+
+#: static/dev/javascripts/sections/collection-beta.js:12248
+#, python-format
+msgid "%(collectionItemsCount)s Items"
+msgstr "%(collectionItemsCount)s Items"
+
+#: static/dev/javascripts/sections/order.js:1684
+#, python-format
+msgid "%(commentLength)s of %(maxLength)s characters used. No HTML please."
+msgstr "%(commentLength)s of %(maxLength)s characters used. No HTML please."
+
+#: static/dev/javascripts/chunk-react-components.js:3308
+#, python-format
+msgid "%(count)s in Collection"
+msgstr "%(count)s in Collection"
+
+#: static/dev/javascripts/chunk-react-components.js:3310
+#, python-format
+msgid "%(count)s in Inventory"
+msgstr "%(count)s in Inventory"
+
+#: static/dev/javascripts/chunk-react-components.js:3309
+#, python-format
+msgid "%(count)s in Wantlist"
+msgstr "%(count)s in Wantlist"
+
+#: static/dev/javascripts/sections/settings.js:2674
+#, python-format
+msgid "%(filename)s is already selected."
+msgstr "%(filename)s is already selected."
+
+#: static/dev/javascripts/image/image-uploader-app.js:695
+#: static/dev/javascripts/sections/image-uploader-app.js:885
+#: static/dev/javascripts/sections/settings.js:885
+#: static/dev/javascripts/sections/subform/app.js:813
+#, python-format
+msgid ""
+"%(filename)s is an unsupported format. Please upload a .jpg, .png, .gif, or "
+".bmp."
+msgstr ""
+"%(filename)s is an unsupported format. Please upload a .jpg, .png, .gif, or "
+".bmp."
+
+#: static/dev/javascripts/sections/settings.js:2661
+#, python-format
+msgid ""
+"%(filename)s is an unsupported format. Please upload a .jpg, .png, .pdf."
+msgstr ""
+"%(filename)s is an unsupported format. Please upload a .jpg, .png, .pdf."
+
+#: static/dev/javascripts/sections/settings.js:2666
+#, python-format
+msgid ""
+"%(filename)s is too large. Please limit your photo size to %(limit)sMB."
+msgstr ""
+"%(filename)s is too large. Please limit your photo size to %(limit)sMB."
+
+#: static/dev/javascripts/sections/artist/tracks.js:11947
+#: static/dev/javascripts/sections/composition-recordings.js:11156
+#: static/dev/javascripts/sections/composition.js:11940
+#: static/dev/javascripts/sections/recording.js:11851
+#: static/dev/javascripts/sections/tracks.js:11156
+#, python-format
+msgid "%(for_sale_count)s For Sale"
+msgstr "%(for_sale_count)s For Sale"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11937
+#: static/dev/javascripts/sections/composition-recordings.js:11146
+#: static/dev/javascripts/sections/composition.js:11930
+#: static/dev/javascripts/sections/recording.js:11841
+#: static/dev/javascripts/sections/tracks.js:11146
+#, python-format
+msgid "%(have_count)s Has"
+msgid_plural "%(have_count)s Have"
+msgstr[0] "%(have_count)s Has"
+msgstr[1] "%(have_count)s Have"
+
+#: static/dev/javascripts/sections/collection-beta.js:8007
+#, python-format
+msgid "%(itemsCount)s Items Selected"
+msgstr "%(itemsCount)s Items Selected"
+
+#: static/dev/javascripts/sections/marketplace/orders/orders.js:234
+#, python-format
+msgid "%(number)s order is selected."
+msgid_plural "%(number)s orders are selected."
+msgstr[0] "%(number)s order is selected."
+msgstr[1] "%(number)s orders are selected."
+
+#: static/dev/javascripts/discogs.js:15830
+#, python-format
+msgid "%(quantity)s from %(currency)s"
+msgstr "%(quantity)s from %(currency)s"
+
+#: static/dev/javascripts/chunk-offers.js:1013
+#: static/dev/javascripts/chunk-react-components.js:2989
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:419
+#, python-format
+msgid "%(ratingPercentage)s positive"
+msgstr "%(ratingPercentage)s positive"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11622
+#: static/dev/javascripts/sections/artist/tracks.js:11650
+#: static/dev/javascripts/sections/composition-recordings.js:10895
+#: static/dev/javascripts/sections/composition-recordings.js:10923
+#: static/dev/javascripts/sections/composition.js:11615
+#: static/dev/javascripts/sections/composition.js:11643
+#: static/dev/javascripts/sections/recording.js:11526
+#: static/dev/javascripts/sections/recording.js:11554
+#: static/dev/javascripts/sections/tracks.js:10895
+#: static/dev/javascripts/sections/tracks.js:10923
+#, python-format
+msgid "%(recordingCount)s Recording"
+msgid_plural "%(recordingCount)s Recordings"
+msgstr[0] "%(recordingCount)s Recording"
+msgstr[1] "%(recordingCount)s Recordings"
+
+#: static/dev/javascripts/sections/master.js:42
+#, python-format
+msgid "%(releaseId)s is invalid. Release IDs should only contain numbers."
+msgstr "%(releaseId)s is invalid. Release IDs should only contain numbers."
+
+#: static/dev/javascripts/sections/artist/tracks.js:11615
+#: static/dev/javascripts/sections/artist/tracks.js:11693
+#: static/dev/javascripts/sections/artist/tracks.js:11788
+#: static/dev/javascripts/sections/composition-recordings.js:10888
+#: static/dev/javascripts/sections/composition-recordings.js:10958
+#: static/dev/javascripts/sections/composition-recordings.js:11046
+#: static/dev/javascripts/sections/composition.js:11608
+#: static/dev/javascripts/sections/composition.js:11686
+#: static/dev/javascripts/sections/composition.js:11781
+#: static/dev/javascripts/sections/recording.js:11519
+#: static/dev/javascripts/sections/recording.js:11597
+#: static/dev/javascripts/sections/recording.js:11692
+#: static/dev/javascripts/sections/tracks.js:10888
+#: static/dev/javascripts/sections/tracks.js:10958
+#: static/dev/javascripts/sections/tracks.js:11046
+#, python-format
+msgid "%(trackCount)s Track"
+msgid_plural "%(trackCount)s Tracks"
+msgstr[0] "%(trackCount)s Track"
+msgstr[1] "%(trackCount)s Tracks"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11942
+#: static/dev/javascripts/sections/composition-recordings.js:11151
+#: static/dev/javascripts/sections/composition.js:11935
+#: static/dev/javascripts/sections/recording.js:11846
+#: static/dev/javascripts/sections/tracks.js:11151
+#, python-format
+msgid "%(want_count)s Wants"
+msgid_plural "%(want_count)s Want"
+msgstr[0] "%(want_count)s Wants"
+msgstr[1] "%(want_count)s Want"
+
+#: static/dev/javascripts/chunk-offers.js:2102
+msgid "404! Oh no!"
+msgstr "404! Oh no!"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11360
+#: static/dev/javascripts/sections/composition-recordings.js:10633
+#: static/dev/javascripts/sections/composition.js:11353
+#: static/dev/javascripts/sections/recording.js:11264
+#: static/dev/javascripts/sections/tracks.js:10633
+msgid "<span class='hide_mobile'>Recording </span>Artist"
+msgstr "<span class='hide_mobile'>Recording </span>Artist"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11346
+#: static/dev/javascripts/sections/composition-recordings.js:10619
+#: static/dev/javascripts/sections/composition.js:11339
+#: static/dev/javascripts/sections/recording.js:11250
+#: static/dev/javascripts/sections/tracks.js:10619
+msgid "<span class='hide_mobile'>Recording </span>Title"
+msgstr "<span class='hide_mobile'>Recording </span>Title"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11268
+#: static/dev/javascripts/sections/composition-recordings.js:10541
+#: static/dev/javascripts/sections/composition.js:11261
+#: static/dev/javascripts/sections/recording.js:11172
+#: static/dev/javascripts/sections/tracks.js:10541
+#, python-format
+msgid "<strong>%(compositionCount)s</strong> Composition"
+msgid_plural "<strong>%(compositionCount)s</strong> Compositions"
+msgstr[0] "<strong>%(compositionCount)s</strong> Composition"
+msgstr[1] "<strong>%(compositionCount)s</strong> Compositions"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11268
+#: static/dev/javascripts/sections/composition-recordings.js:10541
+#: static/dev/javascripts/sections/composition.js:11261
+#: static/dev/javascripts/sections/recording.js:11172
+#: static/dev/javascripts/sections/tracks.js:10541
+#, python-format
+msgid "<strong>%(recordingCount)s</strong> Recording"
+msgid_plural "<strong>%(recordingCount)s</strong> Recordings"
+msgstr[0] "<strong>%(recordingCount)s</strong> Recording"
+msgstr[1] "<strong>%(recordingCount)s</strong> Recordings"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11268
+#: static/dev/javascripts/sections/composition-recordings.js:10541
+#: static/dev/javascripts/sections/composition.js:11261
+#: static/dev/javascripts/sections/recording.js:11172
+#: static/dev/javascripts/sections/tracks.js:10541
+#, python-format
+msgid "<strong>%(trackCount)s</strong> Track"
+msgid_plural "<strong>%(trackCount)s</strong> Tracks"
+msgstr[0] "<strong>%(trackCount)s</strong> Track"
+msgstr[1] "<strong>%(trackCount)s</strong> Tracks"
+
+#: static/dev/javascripts/sections/settings.js:3148
+msgid ""
+"A bank account associated with a business (please note, this requires a "
+"valid EIN, as issued by the IRS)."
+msgstr ""
+"A bank account associated with a business (please note, this requires a "
+"valid EIN, as issued by the IRS)."
+
+#: static/dev/javascripts/sections/settings.js:3157
+msgid ""
+"A bank account associated with an individual (you are the sole operator or "
+"use a Social Security Number as a tax identifier)."
+msgstr ""
+"A bank account associated with an individual (you are the sole operator or "
+"use a Social Security Number as a tax identifier)."
+
+#: static/dev/javascripts/sections/cart.js:923
+#: static/dev/javascripts/sections/guest-cart.js:2716
+#: static/dev/javascripts/sections/marketplace-list.js:106
+#: static/dev/javascripts/sections/marketplace-sell-item.js:53
+#: static/dev/javascripts/sections/marketplace.js:53
+#: static/dev/javascripts/sections/order.js:106
+#: static/dev/javascripts/sections/quicklist.js:53
+#: static/dev/javascripts/unit-test-bundle.js:1204
+msgid "A nearly perfect disc. It should show no obvious signs of wear."
+msgstr "A nearly perfect disc. It should show no obvious signs of wear."
+
+#: static/dev/javascripts/sections/cart.js:913
+#: static/dev/javascripts/sections/guest-cart.js:2706
+#: static/dev/javascripts/sections/marketplace-list.js:96
+#: static/dev/javascripts/sections/marketplace-sell-item.js:43
+#: static/dev/javascripts/sections/marketplace.js:43
+#: static/dev/javascripts/sections/order.js:96
+#: static/dev/javascripts/sections/quicklist.js:43
+#: static/dev/javascripts/unit-test-bundle.js:1194
+msgid ""
+"A nearly perfect record. The record should show no obvious signs of wear."
+msgstr ""
+"A nearly perfect record. The record should show no obvious signs of wear."
+
+#: static/dev/javascripts/sections/subform/app.js:6142
+msgid "ANV"
+msgstr "ANV"
+
+#: static/dev/javascripts/sections/cart.js:912
+#: static/dev/javascripts/sections/guest-cart.js:2705
+#: static/dev/javascripts/sections/marketplace-list.js:95
+#: static/dev/javascripts/sections/marketplace-sell-item.js:42
+#: static/dev/javascripts/sections/marketplace.js:42
+#: static/dev/javascripts/sections/order.js:95
+#: static/dev/javascripts/sections/quicklist.js:42
+#: static/dev/javascripts/unit-test-bundle.js:1193
+msgid ""
+"Absolutely perfect in every way. Certainly never been played. Should be used"
+" sparingly as a grade."
+msgstr ""
+"Absolutely perfect in every way. Certainly never been played. Should be used"
+" sparingly as a grade."
+
+#: static/dev/javascripts/chunk-offers.js:1430
+msgid "Accept"
+msgstr "Accept"
+
+#: static/dev/javascripts/chunk-offers.js:1538
+msgid "Accepted"
+msgstr "Accepted"
+
+#: static/dev/javascripts/sections/quicklist.js:815
+msgid "Accepted Fields"
+msgstr "Accepted Fields"
+
+#: static/dev/javascripts/sections/guest-cart.js:4552
+msgid "Accepted Payment Methods: "
+msgstr "Accepted Payment Methods: "
+
+#: static/dev/javascripts/sections/settings.js:4249
+#: static/dev/javascripts/sections/settings.js:4363
+#: static/dev/javascripts/sections/settings.js:4830
+msgid "Account Number"
+msgstr "Account Number"
+
+#: static/dev/javascripts/sections/settings.js:4379
+msgid ""
+"Account and routing numbers can be found on the bottom of your checks, or "
+"your banking website."
+msgstr ""
+"Account and routing numbers can be found on the bottom of your checks, or "
+"your banking website."
+
+#: static/dev/javascripts/sections/composition-edit.js:8020
+#: static/dev/javascripts/sections/subform/app.js:4521
+#: static/dev/javascripts/sections/subform/app.js:4603
+#: static/dev/javascripts/sections/subform/app.js:7503
+msgid "Add"
+msgstr "Add"
+
+#: static/dev/javascripts/sections/subform/app.js:6157
+#: static/dev/javascripts/sections/subform/app.js:6426
+msgid "Add ANV"
+msgstr "Add ANV"
+
+#: static/dev/javascripts/sections/subform/app.js:7993
+msgid "Add Artist Per Track"
+msgstr "Add Artist Per Track"
+
+#: static/dev/javascripts/sections/subform/app.js:7996
+msgid "Add Credit Per Track"
+msgstr "Add Credit Per Track"
+
+#: static/dev/javascripts/sections/subform/app.js:6261
+msgid "Add Description"
+msgstr "Add Description"
+
+#: static/dev/javascripts/chunk-react-components.js:3573
+msgid "Add Message"
+msgstr "Add Message"
+
+#: static/dev/javascripts/sections/subform/app.js:5803
+msgid "Add New Release"
+msgstr "Add New Release"
+
+#: static/dev/javascripts/sections/subform/app.js:5985
+msgid "Add Release"
+msgstr "Add Release"
+
+#: static/dev/javascripts/sections/subform/app.js:6399
+msgid "Add Role"
+msgstr "Add Role"
+
+#: static/dev/javascripts/sections/subform/app.js:7066
+msgid "Add Style..."
+msgstr "Add Style..."
+
+#: static/dev/javascripts/sections/subform/app.js:7625
+msgid "Add Sub-Track"
+msgstr "Add Sub-Track"
+
+#: static/dev/javascripts/sections/subform/app.js:7987
+msgid "Add Tracks"
+msgstr "Add Tracks"
+
+#: static/dev/javascripts/sections/settings.js:4349
+msgid "Add a bank account where you want your funds to be deposited."
+msgstr "Add a bank account where you want your funds to be deposited."
+
+#: static/dev/javascripts/sections/shipping.js:997
+msgid "Add a domestic shipping policy"
+msgstr "Add a domestic shipping policy"
+
+#: static/dev/javascripts/sections/dashboard.js:79
+msgid "Add a module"
+msgstr "Add a module"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1024
+#: static/dev/javascripts/sections/composition-edit.js:896
+#: static/dev/javascripts/sections/image-uploader-app.js:207
+#: static/dev/javascripts/sections/settings.js:1214
+#: static/dev/javascripts/sections/subform/app.js:1142
+msgid "Add an image"
+msgstr "Add an image"
+
+#: static/dev/javascripts/sections/order.js:1682
+msgid "Add purchased items to my collection and remove from wantlist."
+msgstr "Add purchased items to my collection and remove from wantlist."
+
+#: static/dev/javascripts/chunk-react-components.js:918
+#: static/dev/javascripts/sections/artist/tracks.js:12325
+#: static/dev/javascripts/sections/composition-recordings.js:11534
+#: static/dev/javascripts/sections/composition.js:12318
+#: static/dev/javascripts/sections/recording.js:12229
+#: static/dev/javascripts/sections/tracks.js:11534
+msgid "Add to Collection"
+msgstr "Add to Collection"
+
+#: static/dev/javascripts/chunk-addtolist.js:80
+#: static/dev/javascripts/chunk-react-components.js:937
+msgid "Add to List"
+msgstr "Add to List"
+
+#: static/dev/javascripts/sections/subform/app.js:7220
+msgid "Add to My Collection"
+msgstr "Add to My Collection"
+
+#: static/dev/javascripts/chunk-react-components.js:928
+#: static/dev/javascripts/sections/artist/tracks.js:12330
+#: static/dev/javascripts/sections/composition-recordings.js:11539
+#: static/dev/javascripts/sections/composition.js:12323
+#: static/dev/javascripts/sections/recording.js:12234
+#: static/dev/javascripts/sections/tracks.js:11539
+msgid "Add to Wantlist"
+msgstr "Add to Wantlist"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:536
+msgid "Add to your Collection"
+msgstr "Add to your Collection"
+
+#: static/dev/javascripts/sections/collection-beta.js:7410
+#: static/dev/javascripts/sections/collection-beta.js:8147
+msgid "Added"
+msgstr "Added"
+
+#: static/dev/javascripts/javascripts/marketplace/order/purchase-to-collection.js:428
+#: static/dev/javascripts/javascripts/marketplace/order/purchase-to-collection.js:439
+#: static/dev/javascripts/marketplace/order/purchase-to-collection.js:259
+#: static/dev/javascripts/marketplace/order/purchase-to-collection.js:270
+#, python-format
+msgid ""
+"Added %(item)s to your collection. %(open_tag)sView your "
+"collection.%(close_tag)s"
+msgstr ""
+"Added %(item)s to your collection. %(open_tag)sView your "
+"collection.%(close_tag)s"
+
+#: static/dev/javascripts/javascripts/marketplace/order/purchase-to-collection.js:426
+#: static/dev/javascripts/javascripts/marketplace/order/purchase-to-collection.js:434
+#: static/dev/javascripts/marketplace/order/purchase-to-collection.js:257
+#: static/dev/javascripts/marketplace/order/purchase-to-collection.js:265
+#, python-format
+msgid ""
+"Added %(items)s items to your collection. %(open_tag)sView your "
+"collection.%(close_tag)s"
+msgstr ""
+"Added %(items)s items to your collection. %(open_tag)sView your "
+"collection.%(close_tag)s"
+
+#: static/dev/javascripts/sections/release.js:1269
+#: static/dev/javascripts/sections/search.js:116
+#: static/dev/javascripts/unit-test-bundle.js:1611
+#, python-format
+msgid "Added %(title)s to your collection."
+msgstr "Added %(title)s to your collection."
+
+#: static/dev/javascripts/sections/release.js:1270
+#: static/dev/javascripts/sections/search.js:117
+#: static/dev/javascripts/unit-test-bundle.js:1612
+#, python-format
+msgid "Added %(title)s to your wantlist."
+msgstr "Added %(title)s to your wantlist."
+
+#: static/dev/javascripts/javascripts/marketplace/order/purchase-to-collection.js:442
+#: static/dev/javascripts/marketplace/order/purchase-to-collection.js:273
+msgid "Added 0 items to your collection"
+msgstr "Added 0 items to your collection"
+
+#: static/dev/javascripts/chunk-offers.js:1397
+msgid "Additional Instructions"
+msgstr "Additional Instructions"
+
+#: static/dev/javascripts/sections/upload-beta.js:482
+msgid "Additions / Changes / Removals"
+msgstr "Additions / Changes / Removals"
+
+#: static/dev/javascripts/sections/settings.js:4389
+#: static/dev/javascripts/sections/settings.js:4744
+#: static/dev/javascripts/sections/settings.js:4781
+#: static/dev/javascripts/sections/settings.js:4830
+msgid "Address"
+msgstr "Address"
+
+#: static/dev/javascripts/discogs.js:15795
+msgid "Advanced Search"
+msgstr "Advanced Search"
+
+#: static/dev/javascripts/discogs.js:13150
+msgid "Alert"
+msgstr "Alert"
+
+#: static/dev/javascripts/sections/shipping.js:410
+msgid "All shipping methods must define at least one range"
+msgstr "All shipping methods must define at least one range"
+
+#: static/dev/javascripts/sections/collection-beta.js:6939
+msgid "Allow offers"
+msgstr "Allow offers"
+
+#: static/dev/javascripts/sections/user.js:228
+msgid "An error has occurred, please try again."
+msgstr "An error has occurred, please try again."
+
+#: static/dev/javascripts/sections/order.js:1283
+msgid ""
+"An order is automatically updated to \"Payment Pending\" if the buyer pays "
+"using PayPal via the \"Pay Now\" button on the invoice or order. You may "
+"mark an order as \"Payment Pending\" if payment is being mailed to you, but "
+"hasn't been received yet."
+msgstr ""
+"An order is automatically updated to \"Payment Pending\" if the buyer pays "
+"using PayPal via the \"Pay Now\" button on the invoice or order. You may "
+"mark an order as \"Payment Pending\" if payment is being mailed to you, but "
+"hasn't been received yet."
+
+#: static/dev/javascripts/discogs.js:10942
+#, python-format
+msgid "An unknown error occurred (code %(status)s)"
+msgstr "An unknown error occurred (code %(status)s)"
+
+#: static/dev/javascripts/sections/order.js:1225
+msgid "Archive"
+msgstr "Archive"
+
+#: static/dev/javascripts/sections/subform/app.js:6643
+msgid ""
+"Are you certain you wish to change the format? Any descriptions in the row "
+"will be removed."
+msgstr ""
+"Are you certain you wish to change the format? Any descriptions in the row "
+"will be removed."
+
+#: static/dev/javascripts/sections/artist.js:925
+#: static/dev/javascripts/sections/label.js:94
+#: static/dev/javascripts/sections/release.js:482
+#: static/dev/javascripts/sections/reviews.js:94
+msgid "Are you certain you would like to delete this review?"
+msgstr "Are you certain you would like to delete this review?"
+
+#: static/dev/javascripts/chunk-offers.js:1343
+#, python-format
+msgid ""
+"Are you sure you want to <strong>accept</strong> this offer of %(price)s?"
+msgstr ""
+"Are you sure you want to <strong>accept</strong> this offer of %(price)s?"
+
+#: static/dev/javascripts/chunk-offers.js:1364
+#, python-format
+msgid ""
+"Are you sure you want to <strong>decline</strong> this offer of %(price)s?"
+msgstr ""
+"Are you sure you want to <strong>decline</strong> this offer of %(price)s?"
+
+#: static/dev/javascripts/sections/marketplace-manage.js:10294
+msgid "Are you sure you want to DELETE the items?"
+msgstr "Are you sure you want to DELETE the items?"
+
+#: static/dev/javascripts/sections/drafts.js:38
+msgid ""
+"Are you sure you want to Delete this item? This action is not recoverable."
+msgstr ""
+"Are you sure you want to Delete this item? This action is not recoverable."
+
+#: static/dev/javascripts/sections/composition-recordings.js:588
+#: static/dev/javascripts/sections/tracks.js:588
+msgid "Are you sure you want to close?"
+msgstr "Are you sure you want to close?"
+
+#: static/dev/javascripts/sections/lists.js:1079
+#: static/dev/javascripts/sections/update-list.js:307
+msgid "Are you sure you want to delete this list?"
+msgstr "Are you sure you want to delete this list?"
+
+#: static/dev/javascripts/chunk-tutorial.js:545
+#: static/dev/javascripts/unit-test-bundle.js:753
+msgid "Are you sure you want to leave the walkthrough?"
+msgstr "Are you sure you want to leave the walkthrough?"
+
+#: static/dev/javascripts/sections/lists.js:970
+#: static/dev/javascripts/sections/update-list.js:198
+#, python-format
+msgid "Are you sure you want to remove %(text)s?"
+msgstr "Are you sure you want to remove %(text)s?"
+
+#: static/dev/javascripts/sections/collection.js:593
+#: static/dev/javascripts/sections/wantlist.js:115
+msgid "Are you sure you want to remove these items?"
+msgstr "Are you sure you want to remove these items?"
+
+#: static/dev/javascripts/chunk-addtolist.js:173
+msgid "Are you sure you want to remove this item?"
+msgstr "Are you sure you want to remove this item?"
+
+#: static/dev/javascripts/sections/dashboard.js:488
+#: static/dev/javascripts/sections/user.js:42
+msgid "Are you sure you want to un-share this?"
+msgstr "Are you sure you want to un-share this?"
+
+#: static/dev/javascripts/discogs.js:10979
+#: static/dev/javascripts/sections/collection-beta.js:8026
+#: static/dev/javascripts/sections/order.js:2128
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: static/dev/javascripts/sections/collection-beta.js:8117
+#: static/dev/javascripts/sections/subform/app.js:7968
+msgid "Artist"
+msgstr "Artist"
+
+#: static/dev/javascripts/sections/collection-beta.js:5144
+msgid "Artist A-Z"
+msgstr "Artist A-Z"
+
+#: static/dev/javascripts/sections/subform/app.js:6413
+msgid "Artist Name Variation (ANV)"
+msgstr "Artist Name Variation (ANV)"
+
+#: static/dev/javascripts/sections/collection-beta.js:5149
+msgid "Artist Z-A"
+msgstr "Artist Z-A"
+
+#: static/dev/javascripts/discogs.js:15891
+#: static/dev/javascripts/sections/composition-edit.js:6035
+#: static/dev/javascripts/sections/subform/app.js:2536
+msgid "Artists"
+msgstr "Artists"
+
+#: static/dev/javascripts/sections/artist.js:1024
+#: static/dev/javascripts/sections/label.js:193
+#: static/dev/javascripts/sections/release.js:581
+#: static/dev/javascripts/sections/reviews.js:193
+#, python-format
+msgid ""
+"At least %(minReviewWordCount)s words must be entered. Please enter at least"
+" %(wordsNeeded)s more."
+msgstr ""
+"At least %(minReviewWordCount)s words must be entered. Please enter at least"
+" %(wordsNeeded)s more."
+
+#: static/dev/javascripts/sections/marketplace-manage.js:10021
+#: static/dev/javascripts/sections/marketplace.js:300
+msgid "Audio not found"
+msgstr "Audio not found"
+
+#: static/dev/javascripts/sections/subform/app.js:7990
+msgid "Auto-number Tracks"
+msgstr "Auto-number Tracks"
+
+#: static/dev/javascripts/sections/settings.js:4073
+msgid "Back"
+msgstr "Back"
+
+#: static/dev/javascripts/sections/artist/tracks.js:10736
+#: static/dev/javascripts/sections/composition-recordings.js:10089
+#: static/dev/javascripts/sections/composition.js:10729
+#: static/dev/javascripts/sections/recording.js:10654
+#: static/dev/javascripts/sections/tracks.js:10089
+msgid "Back to Top"
+msgstr "Back to Top"
+
+#: static/dev/javascripts/sections/settings.js:4347
+msgid "Bank Account"
+msgstr "Bank Account"
+
+#: static/dev/javascripts/sections/settings.js:4244
+msgid "Bank Account Owner's Name"
+msgstr "Bank Account Owner's Name"
+
+#: static/dev/javascripts/sections/settings.js:4448
+#: static/dev/javascripts/sections/settings.js:4874
+#: static/dev/javascripts/sections/settings.js:4907
+msgid "Bank Statement"
+msgstr "Bank Statement"
+
+#: static/dev/javascripts/sections/settings.js:4820
+msgid "Banking Information"
+msgstr "Banking Information"
+
+#: static/dev/javascripts/sections/composition-edit.js:6038
+#: static/dev/javascripts/sections/subform/app.js:2539
+msgid "Barcodes and Other Identifiers"
+msgstr "Barcodes and Other Identifiers"
+
+#: static/dev/javascripts/sections/subform/app.js:5171
+msgid "Before you submit"
+msgstr "Before you submit"
+
+#: static/dev/javascripts/chunk-offers.js:2341
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:763
+msgid "Billing"
+msgstr "Billing"
+
+#: static/dev/javascripts/sections/order.js:1088
+msgid "Both you and the buyer can leave feedback."
+msgstr "Both you and the buyer can leave feedback."
+
+#: static/dev/javascripts/sections/settings.js:3090
+msgid "Browser isn't supported"
+msgstr "Browser isn't supported"
+
+#: static/dev/javascripts/sections/settings.js:3730
+msgid "Building Number"
+msgstr "Building Number"
+
+#: static/dev/javascripts/chunk-offers.js:1407
+#: static/dev/javascripts/chunk-offers.js:1482
+msgid "Buyer"
+msgstr "Buyer"
+
+#: static/dev/javascripts/sections/order.js:1173
+#: static/dev/javascripts/sections/order.js:1189
+msgid "Buyer Contacted"
+msgstr "Buyer Contacted"
+
+#: static/dev/javascripts/sections/settings.js:5103
+msgid ""
+"Buyers can now checkout from your store using eligible payment methods "
+"offered through Discogs Payments."
+msgstr ""
+"Buyers can now checkout from your store using eligible payment methods "
+"offered through Discogs Payments."
+
+#: static/dev/javascripts/sections/guest-cart.js:3243
+msgid "Buying Items on Discogs"
+msgstr "Buying Items on Discogs"
+
+#: static/dev/javascripts/sections/guest-cart.js:3382
+msgid "CDs"
+msgstr "CDs"
+
+#: static/dev/javascripts/sections/upload-beta.js:361
+msgid "CSV Guidelines"
+msgstr "CSV Guidelines"
+
+#: static/dev/javascripts/sections/cart.js:916
+#: static/dev/javascripts/sections/cart.js:917
+#: static/dev/javascripts/sections/guest-cart.js:2709
+#: static/dev/javascripts/sections/guest-cart.js:2710
+#: static/dev/javascripts/sections/marketplace-list.js:99
+#: static/dev/javascripts/sections/marketplace-list.js:100
+#: static/dev/javascripts/sections/marketplace-sell-item.js:46
+#: static/dev/javascripts/sections/marketplace-sell-item.js:47
+#: static/dev/javascripts/sections/marketplace.js:46
+#: static/dev/javascripts/sections/marketplace.js:47
+#: static/dev/javascripts/sections/order.js:99
+#: static/dev/javascripts/sections/order.js:100
+#: static/dev/javascripts/sections/quicklist.js:46
+#: static/dev/javascripts/sections/quicklist.js:47
+#: static/dev/javascripts/unit-test-bundle.js:1197
+#: static/dev/javascripts/unit-test-bundle.js:1198
+msgid ""
+"Can play without skipping. Significant scratches, surface noise, and groove "
+"wear."
+msgstr ""
+"Can play without skipping. Significant scratches, surface noise, and groove "
+"wear."
+
+#: static/dev/javascripts/discogs.js:10950
+#: static/dev/javascripts/discogs.js:16508
+#: static/dev/javascripts/discogs.js:18774
+#: static/dev/javascripts/sections/collection-beta.js:6146
+#: static/dev/javascripts/sections/composition-recordings.js:654
+#: static/dev/javascripts/sections/lists.js:1025
+#: static/dev/javascripts/sections/lists.js:1169
+#: static/dev/javascripts/sections/order.js:375
+#: static/dev/javascripts/sections/order.js:433
+#: static/dev/javascripts/sections/order.js:464
+#: static/dev/javascripts/sections/tracks.js:654
+#: static/dev/javascripts/sections/update-list.js:253
+#: static/dev/javascripts/sections/update-list.js:397
+msgid "Cancel"
+msgstr "Cancel"
+
+#: static/dev/javascripts/sections/order.js:1023
+#: static/dev/javascripts/sections/order.js:1029
+msgid "Cancel Order"
+msgid_plural "Cancel Orders"
+msgstr[0] "Cancel Order"
+msgstr[1] "Cancel Orders"
+
+#: static/dev/javascripts/sections/order.js:1023
+#: static/dev/javascripts/sections/order.js:1185
+#: static/dev/javascripts/sections/order.js:1201
+#: static/dev/javascripts/sections/order.js:1462
+msgid "Cancelled"
+msgstr "Cancelled"
+
+#: static/dev/javascripts/sections/order.js:1179
+#: static/dev/javascripts/sections/order.js:1195
+msgid "Cancelled (Item Unavailable)"
+msgstr "Cancelled (Item Unavailable)"
+
+#: static/dev/javascripts/sections/order.js:1178
+#: static/dev/javascripts/sections/order.js:1194
+msgid "Cancelled (Non-Paying Buyer)"
+msgstr "Cancelled (Non-Paying Buyer)"
+
+#: static/dev/javascripts/sections/order.js:1180
+#: static/dev/javascripts/sections/order.js:1196
+msgid "Cancelled (Per Buyer’s Request)"
+msgstr "Cancelled (Per Buyer’s Request)"
+
+#: static/dev/javascripts/sections/order.js:1184
+#: static/dev/javascripts/sections/order.js:1200
+msgid "Cancelled (Refund Received)"
+msgstr "Cancelled (Refund Received)"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:162
+msgid ""
+"Can’t find what you are searching for? Try using\n"
+"the filters to narrow down the search results."
+msgstr ""
+"Can’t find what you are searching for? Try using\n"
+"the filters to narrow down the search results."
+
+#: static/dev/javascripts/sections/composition-edit.js:6713
+#: static/dev/javascripts/sections/subform/app.js:3214
+msgid "Capitalization may be wrong, is this correct?"
+msgstr "Capitalization may be wrong, is this correct?"
+
+#: static/dev/javascripts/sections/subform/app.js:6838
+msgid "Catalog Number"
+msgstr "Catalog Number"
+
+#: static/dev/javascripts/sections/collection-beta.js:8123
+msgid "Catalog#"
+msgstr "Catalog#"
+
+#: static/dev/javascripts/sections/collection-beta.js:5174
+msgid "Catalog# A-Z"
+msgstr "Catalog# A-Z"
+
+#: static/dev/javascripts/sections/collection-beta.js:5179
+msgid "Catalog# Z-A"
+msgstr "Catalog# Z-A"
+
+#: static/dev/javascripts/sections/composition-edit.js:6715
+#: static/dev/javascripts/sections/subform/app.js:3216
+msgid "Change"
+msgstr "Change"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11030
+#: static/dev/javascripts/sections/composition-recordings.js:10348
+#: static/dev/javascripts/sections/composition.js:11023
+#: static/dev/javascripts/sections/recording.js:10941
+#: static/dev/javascripts/sections/tracks.js:10348
+msgid "Changes will take effect within a few minutes."
+msgstr "Changes will take effect within a few minutes."
+
+#: static/dev/javascripts/sections/fourohfour.js:30
+msgid "Check our Twitter feed for updates"
+msgstr "Check our Twitter feed for updates"
+
+#: static/dev/javascripts/sections/guest-cart.js:3267
+msgid "Check out our "
+msgstr "Check out our "
+
+#: static/dev/javascripts/sections/collection-tutorial.js:414
+#: static/dev/javascripts/sections/collection-tutorial.js:433
+msgid "Check the Image Gallery"
+msgstr "Check the Image Gallery"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:384
+msgid "Check the Release Barcodes"
+msgstr "Check the Release Barcodes"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:294
+msgid "Check the Release Companies"
+msgstr "Check the Release Companies"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:324
+msgid "Check the Release Credits"
+msgstr "Check the Release Credits"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:354
+msgid "Check the Release Notes"
+msgstr "Check the Release Notes"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:244
+msgid "Check the Release Profile"
+msgstr "Check the Release Profile"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:269
+msgid "Check the Release Tracklist"
+msgstr "Check the Release Tracklist"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:216
+msgid "Check the Release page details"
+msgstr "Check the Release page details"
+
+#: static/dev/javascripts/sections/upload-beta.js:438
+#, python-format
+msgid ""
+"Check your <a href='%(url)s'>inventory</a> to make sure the results match "
+"your CSV."
+msgstr ""
+"Check your <a href='%(url)s'>inventory</a> to make sure the results match "
+"your CSV."
+
+#: static/dev/javascripts/sections/user.js:353
+msgid "Checking"
+msgstr "Checking"
+
+#: static/dev/javascripts/sections/guest-cart.js:3841
+msgid "Checkout directly through Discogs"
+msgstr "Checkout directly through Discogs"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11841
+#: static/dev/javascripts/sections/composition.js:11834
+#: static/dev/javascripts/sections/recording.js:11745
+msgid "Choose  Title"
+msgstr "Choose  Title"
+
+#: static/dev/javascripts/sections/composition-recordings.js:11083
+#: static/dev/javascripts/sections/tracks.js:11083
+msgid "Choose Composition Title"
+msgstr "Choose Composition Title"
+
+#: static/dev/javascripts/discogs.js:14342
+msgid ""
+"Choose a mix of unique words and phrases. Avoid using the same password "
+"across multiple sites. Your password must be at least 8 characters."
+msgstr ""
+"Choose a mix of unique words and phrases. Avoid using the same password "
+"across multiple sites. Your password must be at least 8 characters."
+
+#: static/dev/javascripts/sections/settings.js:3205
+#: static/dev/javascripts/sections/settings.js:3489
+#: static/dev/javascripts/sections/settings.js:3644
+#: static/dev/javascripts/sections/settings.js:3749
+#: static/dev/javascripts/sections/settings.js:4268
+#: static/dev/javascripts/sections/settings.js:4410
+msgid "City"
+msgstr "City"
+
+#: static/dev/javascripts/sections/artist.js:418
+#, python-format
+msgid "Click %(saveButton)s again to save anyway."
+msgstr "Click %(saveButton)s again to save anyway."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:537
+msgid ""
+"Click the \"Add To Collection\" button to add this\n"
+"Release to your Collection."
+msgstr ""
+"Click the \"Add To Collection\" button to add this\n"
+"Release to your Collection."
+
+#: static/dev/javascripts/sections/artist/tracks.js:11840
+#: static/dev/javascripts/sections/composition-recordings.js:11082
+#: static/dev/javascripts/sections/composition.js:11833
+#: static/dev/javascripts/sections/recording.js:11744
+#: static/dev/javascripts/sections/tracks.js:11082
+msgid "Click to Edit Title"
+msgstr "Click to Edit Title"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1431
+#: static/dev/javascripts/sections/image-uploader-app.js:1437
+#: static/dev/javascripts/sections/settings.js:1621
+#: static/dev/javascripts/sections/subform/app.js:1549
+#: static/dev/javascripts/sections/upload-beta.js:296
+msgid "Click to choose file"
+msgstr "Click to choose file"
+
+#: static/dev/javascripts/sections/artist/tracks.js:12550
+#: static/dev/javascripts/sections/composition-recordings.js:11759
+#: static/dev/javascripts/sections/composition.js:12543
+#: static/dev/javascripts/sections/recording.js:12454
+#: static/dev/javascripts/sections/tracks.js:11759
+msgid "Click to load more"
+msgstr "Click to load more"
+
+#: static/dev/javascripts/discogs.js:13147
+#: static/dev/javascripts/sections/composition-recordings.js:416
+#: static/dev/javascripts/sections/settings.js:5106
+#: static/dev/javascripts/sections/tracks.js:416
+msgid "Close"
+msgstr "Close"
+
+#: static/dev/javascripts/sections/subform/app.js:6666
+msgid "Collapse"
+msgstr "Collapse"
+
+#: static/dev/javascripts/sections/collection-beta.js:12376
+msgid "Collection"
+msgstr "Collection"
+
+#: static/dev/javascripts/sections/collection-beta.js:12201
+msgid "Collection Value"
+msgstr "Collection Value"
+
+#: static/dev/javascripts/sections/artist/tracks.js:8216
+#: static/dev/javascripts/sections/composition-recordings.js:7620
+#: static/dev/javascripts/sections/composition.js:8209
+#: static/dev/javascripts/sections/recording.js:8134
+#: static/dev/javascripts/sections/tracks.js:7620
+msgid "Commit message"
+msgstr "Commit message"
+
+#: static/dev/javascripts/sections/subform/app.js:5337
+msgid "Companies, etc."
+msgstr "Companies, etc."
+
+#: static/dev/javascripts/sections/settings.js:3681
+#: static/dev/javascripts/sections/settings.js:4767
+msgid "Company Details"
+msgstr "Company Details"
+
+#: static/dev/javascripts/sections/settings.js:3683
+msgid "Company Name (Legal Entity)"
+msgstr "Company Name (Legal Entity)"
+
+#: static/dev/javascripts/sections/settings.js:3726
+msgid "Company address is same as owners address"
+msgstr "Company address is same as owners address"
+
+#: static/dev/javascripts/sections/settings.js:3303
+msgid "Company name"
+msgstr "Company name"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:245
+msgid ""
+"Compare the Artist, Title, Label, Catalog Number,\n"
+"Format, Country, and Release Date against the\n"
+"details printed on your item’s packaging and\n"
+"physical media."
+msgstr ""
+"Compare the Artist, Title, Label, Catalog Number,\n"
+"Format, Country, and Release Date against the\n"
+"details printed on your item’s packaging and\n"
+"physical media."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:325
+msgid ""
+"Compare the Credits against the credits and attributions\n"
+"found on your item’s packaging or the physical media."
+msgstr ""
+"Compare the Credits against the credits and attributions\n"
+"found on your item’s packaging or the physical media."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:270
+msgid ""
+"Compare the Tracklist against the Tracklist found\n"
+"on your item’s packaging or the physical media."
+msgstr ""
+"Compare the Tracklist against the Tracklist found\n"
+"on your item’s packaging or the physical media."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:295
+msgid ""
+"Compare the associated Companies against the companies\n"
+"found on your item’s packaging or the physical media."
+msgstr ""
+"Compare the associated Companies against the companies\n"
+"found on your item’s packaging or the physical media."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:217
+msgid "Compare your item against the details on the Release page."
+msgstr "Compare your item against the details on the Release page."
+
+#: static/dev/javascripts/sections/artist/tracks.js:11329
+#: static/dev/javascripts/sections/composition-recordings.js:10602
+#: static/dev/javascripts/sections/composition.js:11322
+#: static/dev/javascripts/sections/recording.js:11233
+#: static/dev/javascripts/sections/tracks.js:10602
+msgid "Composition Title"
+msgstr "Composition Title"
+
+#: static/dev/javascripts/sections/artist/tracks.js:2832
+#: static/dev/javascripts/sections/composition-recordings.js:2559
+#: static/dev/javascripts/sections/composition.js:2825
+#: static/dev/javascripts/sections/recording.js:2700
+#: static/dev/javascripts/sections/tracks.js:2559
+msgid "Composition has no Recordings yet"
+msgstr "Composition has no Recordings yet"
+
+#: static/dev/javascripts/sections/composition-recordings.js:2526
+#: static/dev/javascripts/sections/tracks.js:2526
+msgid "Composition has no Tracks yet"
+msgstr "Composition has no Tracks yet"
+
+#: static/dev/javascripts/sections/collection-beta.js:8162
+msgid "Condition"
+msgstr "Condition"
+
+#: static/dev/javascripts/discogs.js:10948
+#: static/dev/javascripts/sections/lists.js:1032
+#: static/dev/javascripts/sections/update-list.js:260
+msgid "Confirm"
+msgstr "Confirm"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:105
+#, python-format
+msgid "Congratulations on adding to your %(listType)s!"
+msgstr "Congratulations on adding to your %(listType)s!"
+
+#: static/dev/javascripts/sections/shipping.js:443
+msgid "Costs cannot be negative"
+msgstr "Costs cannot be negative"
+
+#: static/dev/javascripts/sections/artist/tracks.js:7642
+#: static/dev/javascripts/sections/collection-beta.js:3534
+#: static/dev/javascripts/sections/collection-beta.js:4125
+#: static/dev/javascripts/sections/collection-beta.js:4406
+#: static/dev/javascripts/sections/composition-recordings.js:7046
+#: static/dev/javascripts/sections/composition.js:7635
+#: static/dev/javascripts/sections/recording.js:7560
+#: static/dev/javascripts/sections/tracks.js:7046
+msgid "Countries"
+msgstr "Countries"
+
+#: static/dev/javascripts/chunk-master-filtering.js:766
+#: static/dev/javascripts/sections/composition-edit.js:6040
+#: static/dev/javascripts/sections/settings.js:3214
+#: static/dev/javascripts/sections/settings.js:3518
+#: static/dev/javascripts/sections/settings.js:3673
+#: static/dev/javascripts/sections/settings.js:3780
+#: static/dev/javascripts/sections/settings.js:4282
+#: static/dev/javascripts/sections/settings.js:4438
+#: static/dev/javascripts/sections/subform/app.js:2541
+msgid "Country"
+msgstr "Country"
+
+#: static/dev/javascripts/sections/collection-beta.js:7008
+msgid "Counts as"
+msgstr "Counts as"
+
+#: static/dev/javascripts/sections/collection-beta.js:12392
+msgid "Cover View"
+msgstr "Cover View"
+
+#: static/dev/javascripts/discogs.js:16501
+#: static/dev/javascripts/sections/artist.js:253
+msgid "Create"
+msgstr "Create"
+
+#: static/dev/javascripts/sections/artist.js:263
+msgid "Create Master Release"
+msgstr "Create Master Release"
+
+#: static/dev/javascripts/sections/guest-cart.js:4398
+msgid "Create an account"
+msgstr "Create an account"
+
+#: static/dev/javascripts/chunk-offers.js:1422
+#: static/dev/javascripts/chunk-offers.js:1482
+msgid "Created"
+msgstr "Created"
+
+#: static/dev/javascripts/sections/composition-edit.js:6043
+#: static/dev/javascripts/sections/subform/app.js:2544
+#: static/dev/javascripts/sections/subform/app.js:7499
+msgid "Credits"
+msgstr "Credits"
+
+#: static/dev/javascripts/sections/dashboard.js:415
+msgid "Customize This Page"
+msgstr "Customize This Page"
+
+#: static/dev/javascripts/sections/subform/app.js:6971
+msgid "Date"
+msgstr "Date"
+
+#: static/dev/javascripts/sections/settings.js:3280
+#: static/dev/javascripts/sections/settings.js:3337
+#: static/dev/javascripts/sections/settings.js:3438
+#: static/dev/javascripts/sections/settings.js:3583
+#: static/dev/javascripts/sections/settings.js:4744
+#: static/dev/javascripts/sections/settings.js:4797
+msgid "Date of Birth"
+msgstr "Date of Birth"
+
+#: static/dev/javascripts/sections/artist/tracks.js:7642
+#: static/dev/javascripts/sections/collection-beta.js:3534
+#: static/dev/javascripts/sections/collection-beta.js:4125
+#: static/dev/javascripts/sections/collection-beta.js:4406
+#: static/dev/javascripts/sections/composition-recordings.js:7046
+#: static/dev/javascripts/sections/composition.js:7635
+#: static/dev/javascripts/sections/recording.js:7560
+#: static/dev/javascripts/sections/tracks.js:7046
+msgid "Decades"
+msgstr "Decades"
+
+#: static/dev/javascripts/chunk-offers.js:1433
+msgid "Decline"
+msgstr "Decline"
+
+#: static/dev/javascripts/chunk-offers.js:1547
+msgid "Declined"
+msgstr "Declined"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1281
+#: static/dev/javascripts/sections/collection-beta.js:8018
+#: static/dev/javascripts/sections/image-uploader-app.js:1287
+#: static/dev/javascripts/sections/settings.js:1471
+#: static/dev/javascripts/sections/subform/app.js:1399
+msgid "Delete"
+msgstr "Delete"
+
+#: static/dev/javascripts/sections/shipping.js:957
+msgid "Delete all shipping policies and start over? This can't be undone."
+msgstr "Delete all shipping policies and start over? This can't be undone."
+
+#: static/dev/javascripts/chunk-offers.js:1393
+#: static/dev/javascripts/sections/subform/app.js:6254
+msgid "Description"
+msgstr "Description"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1277
+#: static/dev/javascripts/sections/image-uploader-app.js:1283
+#: static/dev/javascripts/sections/settings.js:1467
+#: static/dev/javascripts/sections/subform/app.js:1395
+msgid "Disable"
+msgstr "Disable"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1260
+#: static/dev/javascripts/sections/image-uploader-app.js:1266
+#: static/dev/javascripts/sections/settings.js:1450
+#: static/dev/javascripts/sections/subform/app.js:1378
+msgid "Disabled"
+msgstr "Disabled"
+
+#: static/dev/javascripts/sections/cart.js:458
+#: static/dev/javascripts/sections/cart.js:564
+msgid "Discogs Alert"
+msgstr "Discogs Alert"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:49
+#: static/dev/javascripts/sections/settings/notifications.js:628
+msgid "Discogs Inbox"
+msgstr "Discogs Inbox"
+
+#: static/dev/javascripts/sections/settings.js:2229
+msgid "Discogs Payments Setup"
+msgstr "Discogs Payments Setup"
+
+#: static/dev/javascripts/sections/order.js:1691
+msgid ""
+"Do not use this for communication. Please try to <strong>resolve any "
+"problems</strong> <em>before</em> leaving feedback."
+msgstr ""
+"Do not use this for communication. Please try to <strong>resolve any "
+"problems</strong> <em>before</em> leaving feedback."
+
+#: static/dev/javascripts/sections/lists.js:921
+#: static/dev/javascripts/sections/update-list.js:149
+#, python-format
+msgid "Does not exist: %(id)s"
+msgstr "Does not exist: %(id)s"
+
+#: static/dev/javascripts/sections/order.js:2182
+msgid "Don't ask me again."
+msgstr "Don't ask me again."
+
+#: static/dev/javascripts/sections/settings.js:4076
+msgid "Done"
+msgstr "Done"
+
+#: static/dev/javascripts/sections/artist/tracks.js:8385
+#: static/dev/javascripts/sections/composition-recordings.js:7789
+#: static/dev/javascripts/sections/composition.js:8378
+#: static/dev/javascripts/sections/recording.js:8303
+#: static/dev/javascripts/sections/tracks.js:7789
+msgid "Done Editing"
+msgstr "Done Editing"
+
+#: static/dev/javascripts/sections/subform/app.js:4603
+msgid "Draft"
+msgstr "Draft"
+
+#: static/dev/javascripts/sections/drafts.js:39
+msgid "Draft has been deleted."
+msgstr "Draft has been deleted."
+
+#: static/dev/javascripts/image/image-uploader-app.js:1431
+#: static/dev/javascripts/sections/image-uploader-app.js:1437
+#: static/dev/javascripts/sections/settings.js:1621
+#: static/dev/javascripts/sections/settings.js:4555
+#: static/dev/javascripts/sections/subform/app.js:1549
+#: static/dev/javascripts/sections/upload-beta.js:294
+msgid "Drag and drop file or click to browse"
+msgstr "Drag and drop file or click to browse"
+
+#: static/dev/javascripts/sections/upload-beta.js:437
+msgid ""
+"Drag your CSV file into the upload field.  Make sure it fits the guidelines "
+"outlined in the <a href='#' class='open-guidelines-modal'>sample</a>."
+msgstr ""
+"Drag your CSV file into the upload field.  Make sure it fits the guidelines "
+"outlined in the <a href='#' class='open-guidelines-modal'>sample</a>."
+
+#: static/dev/javascripts/sections/settings.js:4663
+msgid "Driving Licence"
+msgstr "Driving Licence"
+
+#: static/dev/javascripts/sections/settings.js:4525
+msgid "Driving Licence back"
+msgstr "Driving Licence back"
+
+#: static/dev/javascripts/sections/settings.js:4523
+msgid "Driving Licence front"
+msgstr "Driving Licence front"
+
+#: static/dev/javascripts/sections/settings.js:4873
+msgid "Driving licence back"
+msgstr "Driving licence back"
+
+#: static/dev/javascripts/sections/settings.js:4872
+msgid "Driving licence front"
+msgstr "Driving licence front"
+
+#: static/dev/javascripts/sections/settings.js:4654
+msgid "Driving licence must have front and back image."
+msgstr "Driving licence must have front and back image."
+
+#: static/dev/javascripts/sections/settings.js:2780
+msgid "Driving licence must have front and back images uploaded."
+msgstr "Driving licence must have front and back images uploaded."
+
+#: static/dev/javascripts/sections/settings.js:2795
+msgid "Driving licence sides can't be the same."
+msgstr "Driving licence sides can't be the same."
+
+#: static/dev/javascripts/sections/artist/tracks.js:11386
+#: static/dev/javascripts/sections/artist/tracks.js:12036
+#: static/dev/javascripts/sections/composition-recordings.js:10659
+#: static/dev/javascripts/sections/composition-recordings.js:11245
+#: static/dev/javascripts/sections/composition.js:11379
+#: static/dev/javascripts/sections/composition.js:12029
+#: static/dev/javascripts/sections/recording.js:11290
+#: static/dev/javascripts/sections/recording.js:11940
+#: static/dev/javascripts/sections/subform/app.js:7972
+#: static/dev/javascripts/sections/tracks.js:10659
+#: static/dev/javascripts/sections/tracks.js:11245
+msgid "Duration"
+msgstr "Duration"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11629
+#: static/dev/javascripts/sections/artist/tracks.js:11725
+#: static/dev/javascripts/sections/composition-recordings.js:10902
+#: static/dev/javascripts/sections/composition.js:11622
+#: static/dev/javascripts/sections/composition.js:11718
+#: static/dev/javascripts/sections/recording.js:11533
+#: static/dev/javascripts/sections/recording.js:11629
+#: static/dev/javascripts/sections/settings.js:4736
+#: static/dev/javascripts/sections/settings.js:4771
+#: static/dev/javascripts/sections/settings.js:4789
+#: static/dev/javascripts/sections/settings.js:4824
+#: static/dev/javascripts/sections/settings.js:4850
+#: static/dev/javascripts/sections/settings.js:4911
+#: static/dev/javascripts/sections/subform/app.js:4603
+#: static/dev/javascripts/sections/subform/app.js:7492
+#: static/dev/javascripts/sections/tracks.js:10902
+msgid "Edit"
+msgstr "Edit"
+
+#: static/dev/javascripts/sections/collection-beta.js:6136
+#: static/dev/javascripts/sections/collection-beta.js:6246
+#, python-format
+msgid "Edit %(name)s"
+msgstr "Edit %(name)s"
+
+#: static/dev/javascripts/chunk-react-components.js:945
+#, python-format
+msgid "Edit %(type)s"
+msgstr "Edit %(type)s"
+
+#: static/dev/javascripts/sections/subform/app.js:5985
+msgid "Edit Draft"
+msgstr "Edit Draft"
+
+#: static/dev/javascripts/sections/subform/app.js:4654
+msgid "Edit Images"
+msgstr "Edit Images"
+
+#: static/dev/javascripts/sections/artist.js:263
+msgid "Edit Master Release"
+msgstr "Edit Master Release"
+
+#: static/dev/javascripts/sections/artist/tracks.js:12335
+#: static/dev/javascripts/sections/composition-recordings.js:11544
+#: static/dev/javascripts/sections/composition.js:12328
+#: static/dev/javascripts/sections/recording.js:12239
+#: static/dev/javascripts/sections/subform/app.js:5801
+#: static/dev/javascripts/sections/subform/app.js:5985
+#: static/dev/javascripts/sections/tracks.js:11544
+msgid "Edit Release"
+msgstr "Edit Release"
+
+#: static/dev/javascripts/sections/subform/app.js:7962
+msgid "Edit all Track Artists/Credits"
+msgstr "Edit all Track Artists/Credits"
+
+#: static/dev/javascripts/sections/artist/tracks.js:10820
+#: static/dev/javascripts/sections/composition-recordings.js:10173
+#: static/dev/javascripts/sections/composition.js:10813
+#: static/dev/javascripts/sections/recording.js:10738
+#: static/dev/javascripts/sections/tracks.js:10173
+#, python-format
+msgid "Editing <strong>%(editCount)s</strong> Composition"
+msgid_plural "Editing <strong>%(editCount)s</strong> Compositions"
+msgstr[0] "Editing <strong>%(editCount)s</strong> Composition"
+msgstr[1] "Editing <strong>%(editCount)s</strong> Compositions"
+
+#: static/dev/javascripts/sections/artist/tracks.js:10874
+#: static/dev/javascripts/sections/composition.js:10867
+#, python-format
+msgid "Editing <strong>%(editCount)s</strong> Recording"
+msgid_plural "Editing <strong>%(editCount)s</strong> Recordings"
+msgstr[0] "Editing <strong>%(editCount)s</strong> Recording"
+msgstr[1] "Editing <strong>%(editCount)s</strong> Recordings"
+
+#: static/dev/javascripts/sections/recording.js:10792
+#, python-format
+msgid "Editing <strong>%(editCount)s</strong> Recordings"
+msgid_plural "Editing <strong>%(editCount)s</strong> Recordings"
+msgstr[0] "Editing <strong>%(editCount)s</strong> Recordings"
+msgstr[1] "Editing <strong>%(editCount)s</strong> Recordings"
+
+#: static/dev/javascripts/sections/settings.js:3261
+#: static/dev/javascripts/sections/settings.js:3295
+#: static/dev/javascripts/sections/settings.js:3313
+#: static/dev/javascripts/sections/settings.js:3451
+#: static/dev/javascripts/sections/settings.js:3596
+#: static/dev/javascripts/sections/settings.js:3702
+#: static/dev/javascripts/sections/settings.js:4781
+#: static/dev/javascripts/sections/settings.js:4799
+msgid "Email"
+msgstr "Email"
+
+#: static/dev/javascripts/sections/guest-cart.js:3234
+msgid "Empty Cart"
+msgstr "Empty Cart"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1275
+#: static/dev/javascripts/sections/image-uploader-app.js:1281
+#: static/dev/javascripts/sections/settings.js:1465
+#: static/dev/javascripts/sections/subform/app.js:1393
+msgid "Enable"
+msgstr "Enable"
+
+#: static/dev/javascripts/sections/artist.js:412
+#: static/dev/javascripts/sections/dashboard.js:254
+msgid "Error"
+msgstr "Error"
+
+#: static/dev/javascripts/sections/subform/app.js:5006
+msgid "Errors"
+msgstr "Errors"
+
+#: static/dev/javascripts/sections/shipping.js:220
+msgid "European Union"
+msgstr "European Union"
+
+#: static/dev/javascripts/discogs.js:15891
+msgid "Everything"
+msgstr "Everything"
+
+#: static/dev/javascripts/chunk-tutorial.js:244
+#: static/dev/javascripts/unit-test-bundle.js:452
+msgid "Exit"
+msgstr "Exit"
+
+#: static/dev/javascripts/sections/subform/app.js:6666
+msgid "Expand"
+msgstr "Expand"
+
+#: static/dev/javascripts/chunk-offers.js:1529
+msgid "Expired"
+msgstr "Expired"
+
+#: static/dev/javascripts/chunk-offers.js:1422
+#: static/dev/javascripts/chunk-offers.js:1482
+msgid "Expires"
+msgstr "Expires"
+
+#: static/dev/javascripts/sections/collection-beta.js:12307
+msgid "Export My Collection"
+msgstr "Export My Collection"
+
+#: static/dev/javascripts/sections/settings.js:2873
+msgid ""
+"Failed to create a payment account, please make sure that all fields are "
+"correct."
+msgstr ""
+"Failed to create a payment account, please make sure that all fields are "
+"correct."
+
+#: static/dev/javascripts/sections/settings.js:2436
+msgid "Failed to load your account information"
+msgstr "Failed to load your account information"
+
+#: static/dev/javascripts/sections/settings.js:2861
+#, python-format
+msgid "Failed to upload image, make sure it's under %(limit)sMB."
+msgstr "Failed to upload image, make sure it's under %(limit)sMB."
+
+#: static/dev/javascripts/sections/collection-beta.js:6779
+#: static/dev/javascripts/sections/collection-beta.js:6851
+msgid "Fair (F)"
+msgstr "Fair (F)"
+
+#: static/dev/javascripts/chunk-offers.js:1094
+#: static/dev/javascripts/chunk-react-components.js:3070
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:500
+msgid "Feedback Removed"
+msgstr "Feedback Removed"
+
+#: static/dev/javascripts/sections/upload-beta.js:482
+msgid "File (Size)"
+msgstr "File (Size)"
+
+#: static/dev/javascripts/chunk-react-components.js:1776
+msgid "Filter"
+msgstr "Filter"
+
+#: static/dev/javascripts/sections/collection-beta.js:12240
+msgid "Filter Your Collection"
+msgstr "Filter Your Collection"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:161
+msgid "Filter the Search Results"
+msgstr "Filter the Search Results"
+
+#: static/dev/javascripts/chunk-master-filtering.js:596
+msgid "Find Your Version"
+msgstr "Find Your Version"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:147
+msgid ""
+"Find your Release by comparing the information on\n"
+"the packaging against the details of the Release\n"
+"in the search results (e.g. Catalog Number,\n"
+"Label, and Format)."
+msgstr ""
+"Find your Release by comparing the information on\n"
+"the packaging against the details of the Release\n"
+"in the search results (e.g. Catalog Number,\n"
+"Label, and Format)."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:181
+msgid ""
+"Find your Release in the Database by comparing the\n"
+"information on your item’s packaging against the\n"
+"details of the search results (e.g. Catalog Number,\n"
+"Label, and Format). Use the Filters in the left\n"
+"column to narrow your search results."
+msgstr ""
+"Find your Release in the Database by comparing the\n"
+"information on your item’s packaging against the\n"
+"details of the search results (e.g. Catalog Number,\n"
+"Label, and Format). Use the Filters in the left\n"
+"column to narrow your search results."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:557
+msgid "Finish"
+msgstr "Finish"
+
+#: static/dev/javascripts/sections/settings.js:3265
+#: static/dev/javascripts/sections/settings.js:3321
+#: static/dev/javascripts/sections/settings.js:3420
+#: static/dev/javascripts/sections/settings.js:3565
+msgid "First Name"
+msgstr "First Name"
+
+#: static/dev/javascripts/sections/collection-beta.js:7419
+#: static/dev/javascripts/sections/collection-beta.js:8152
+msgid "Folder"
+msgstr "Folder"
+
+#: static/dev/javascripts/sections/collection-beta.js:4125
+#: static/dev/javascripts/sections/collection-beta.js:4406
+msgid "Folders"
+msgstr "Folders"
+
+#: static/dev/javascripts/sections/settings.js:3132
+#, python-format
+msgid ""
+"For more details, visit our %(help_link_start)s Discogs Payments "
+"Program%(link_end)s help article."
+msgstr ""
+"For more details, visit our %(help_link_start)s Discogs Payments "
+"Program%(link_end)s help article."
+
+#: static/dev/javascripts/sections/shipping.js:64
+msgid ""
+"For orders that don't match the shipping method below, you'll need to tell "
+"the buyer how much shipping will cost."
+msgid_plural ""
+"For orders that don't match any of the shipping methods below, you'll need "
+"to tell the buyer how much shipping will cost."
+msgstr[0] ""
+"For orders that don't match the shipping method below, you'll need to tell "
+"the buyer how much shipping will cost."
+msgstr[1] ""
+"For orders that don't match any of the shipping methods below, you'll need "
+"to tell the buyer how much shipping will cost."
+
+#: static/dev/javascripts/chunk-master-filtering.js:770
+#: static/dev/javascripts/sections/collection-beta.js:8127
+#: static/dev/javascripts/sections/composition-edit.js:6039
+#: static/dev/javascripts/sections/subform/app.js:2540
+msgid "Format"
+msgstr "Format"
+
+#: static/dev/javascripts/sections/collection-beta.js:5184
+msgid "Format A-Z"
+msgstr "Format A-Z"
+
+#: static/dev/javascripts/sections/collection-beta.js:5189
+msgid "Format Z-A"
+msgstr "Format Z-A"
+
+#: static/dev/javascripts/sections/subform/app.js:6974
+msgid "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
+msgstr "Format: YYYY-MM-DD or YYYY-MM-00 or YYYY"
+
+#: static/dev/javascripts/sections/artist/tracks.js:7642
+#: static/dev/javascripts/sections/collection-beta.js:3534
+#: static/dev/javascripts/sections/collection-beta.js:4125
+#: static/dev/javascripts/sections/collection-beta.js:4406
+#: static/dev/javascripts/sections/composition-recordings.js:7046
+#: static/dev/javascripts/sections/composition.js:7635
+#: static/dev/javascripts/sections/recording.js:7560
+#: static/dev/javascripts/sections/tracks.js:7046
+msgid "Formats"
+msgstr "Formats"
+
+#: static/dev/javascripts/sections/subform/app.js:6592
+msgid "Free Text"
+msgstr "Free Text"
+
+#: static/dev/javascripts/sections/settings.js:4740
+#: static/dev/javascripts/sections/settings.js:4793
+msgid "Full Name"
+msgstr "Full Name"
+
+#: static/dev/javascripts/sections/order.js:496
+msgid ""
+"Future orders from the same country with a single item will be automatically"
+" invoiced with the same shipping cost used for this order, allowing the "
+"buyer to pay right away."
+msgstr ""
+"Future orders from the same country with a single item will be automatically"
+" invoiced with the same shipping cost used for this order, allowing the "
+"buyer to pay right away."
+
+#: static/dev/javascripts/sections/collection-beta.js:6811
+msgid "Generic"
+msgstr "Generic"
+
+#: static/dev/javascripts/sections/artist/tracks.js:7642
+#: static/dev/javascripts/sections/collection-beta.js:3534
+#: static/dev/javascripts/sections/collection-beta.js:4125
+#: static/dev/javascripts/sections/collection-beta.js:4406
+#: static/dev/javascripts/sections/composition-edit.js:6044
+#: static/dev/javascripts/sections/composition-recordings.js:7046
+#: static/dev/javascripts/sections/composition.js:7635
+#: static/dev/javascripts/sections/recording.js:7560
+#: static/dev/javascripts/sections/subform/app.js:2545
+#: static/dev/javascripts/sections/tracks.js:7046
+msgid "Genres"
+msgstr "Genres"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:47
+msgid "Get Artist Alerts"
+msgstr "Get Artist Alerts"
+
+#: static/dev/javascripts/sections/fourohfour.js:28
+msgid "Get help"
+msgstr "Get help"
+
+#: static/dev/javascripts/discogs.js:14278
+msgid "Good"
+msgstr "Good"
+
+#: static/dev/javascripts/sections/collection-beta.js:6774
+#: static/dev/javascripts/sections/collection-beta.js:6846
+msgid "Good (G)"
+msgstr "Good (G)"
+
+#: static/dev/javascripts/sections/collection-beta.js:6769
+#: static/dev/javascripts/sections/collection-beta.js:6841
+msgid "Good Plus (G+)"
+msgstr "Good Plus (G+)"
+
+#: static/dev/javascripts/sections/user.js:459
+#, python-format
+msgid ""
+"Google Sign In failed. \n"
+"Please enable 3rd party cookies and try again or log in to your %(open_tag)sgoogle account%(close_tag)s."
+msgstr ""
+"Google Sign In failed. \n"
+"Please enable 3rd party cookies and try again or log in to your %(open_tag)sgoogle account%(close_tag)s."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:168
+#: static/dev/javascripts/sections/collection-tutorial.js:226
+#: static/dev/javascripts/sections/collection-tutorial.js:254
+#: static/dev/javascripts/sections/collection-tutorial.js:279
+#: static/dev/javascripts/sections/collection-tutorial.js:304
+#: static/dev/javascripts/sections/collection-tutorial.js:334
+#: static/dev/javascripts/sections/collection-tutorial.js:364
+#: static/dev/javascripts/sections/collection-tutorial.js:394
+#: static/dev/javascripts/sections/collection-tutorial.js:441
+msgid "Got it!"
+msgstr "Got it!"
+
+#: static/dev/javascripts/discogs.js:14278
+msgid "Great!"
+msgstr "Great!"
+
+#: static/dev/javascripts/sections/marketplace-list.js:680
+#, python-format
+msgid "Has %(n)s item I want"
+msgid_plural "Has %(n)s items I want"
+msgstr[0] "Has %(n)s item I want"
+msgstr[1] "Has %(n)s items I want"
+
+#: static/dev/javascripts/sections/marketplace-list.js:678
+#, python-format
+msgid "Has %(n)s more item I want"
+msgid_plural "Has %(n)s more items I want"
+msgstr[0] "Has %(n)s more item I want"
+msgstr[1] "Has %(n)s more items I want"
+
+#: static/dev/javascripts/sections/subform/app.js:7738
+msgid "Heading"
+msgstr "Heading"
+
+#: static/dev/javascripts/sections/collection-beta.js:6944
+msgid "Help"
+msgstr "Help"
+
+#: static/dev/javascripts/sections/collection-beta.js:6943
+msgid "Help on making offers"
+msgstr "Help on making offers"
+
+#: static/dev/javascripts/sections/artist/tracks.js:10891
+#: static/dev/javascripts/sections/composition.js:10884
+#: static/dev/javascripts/sections/recording.js:10809
+msgid "Help with Migrating Recordings"
+msgstr "Help with Migrating Recordings"
+
+#: static/dev/javascripts/sections/artist/tracks.js:10837
+#: static/dev/javascripts/sections/composition-recordings.js:10190
+#: static/dev/javascripts/sections/composition.js:10830
+#: static/dev/javascripts/sections/recording.js:10755
+#: static/dev/javascripts/sections/tracks.js:10190
+msgid "Help with Migrating Tracks"
+msgstr "Help with Migrating Tracks"
+
+#: static/dev/javascripts/sections/fourohfour.js:29
+msgid "Help!"
+msgstr "Help!"
+
+#: static/dev/javascripts/chunk-offers.js:1455
+msgid "Here are some tips for receiving offers on your inventory:"
+msgstr "Here are some tips for receiving offers on your inventory:"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11649
+#: static/dev/javascripts/sections/composition-recordings.js:10922
+#: static/dev/javascripts/sections/composition.js:11642
+#: static/dev/javascripts/sections/recording.js:11553
+#: static/dev/javascripts/sections/tracks.js:10922
+#, python-format
+msgid "Hide %(trackCount)s Track"
+msgid_plural "Hide %(trackCount)s Tracks"
+msgstr[0] "Hide %(trackCount)s Track"
+msgstr[1] "Hide %(trackCount)s Tracks"
+
+#: static/dev/javascripts/discogs.js:18483
+msgid "Hide Credits"
+msgstr "Hide Credits"
+
+#: static/dev/javascripts/sections/marketplace-manage.js:10167
+msgid "Hide actions"
+msgstr "Hide actions"
+
+#: static/dev/javascripts/sections/collection-beta.js:6692
+msgid "Highest"
+msgstr "Highest"
+
+#: static/dev/javascripts/sections/event-promo.js:60
+msgid "Hm, that didn't work! Try again?"
+msgstr "Hm, that didn't work! Try again?"
+
+#: static/dev/javascripts/sections/settings.js:3197
+#: static/dev/javascripts/sections/settings.js:3470
+#: static/dev/javascripts/sections/settings.js:3625
+#: static/dev/javascripts/sections/settings.js:4260
+#: static/dev/javascripts/sections/settings.js:4391
+msgid "House Number"
+msgstr "House Number"
+
+#: static/dev/javascripts/chunk-offers.js:1461
+msgid "How Can I Manage My Inventory"
+msgstr "How Can I Manage My Inventory"
+
+#: static/dev/javascripts/sections/collection-beta.js:6866
+msgid "How do I grade my items?"
+msgstr "How do I grade my items?"
+
+#: static/dev/javascripts/chunk-offers.js:1459
+msgid "How to Accept an Offer"
+msgstr "How to Accept an Offer"
+
+#: static/dev/javascripts/chunk-offers.js:1463
+msgid "How to Make An Offer"
+msgstr "How to Make An Offer"
+
+#: static/dev/javascripts/sections/settings.js:4992
+msgid "I agree to the"
+msgstr "I agree to the"
+
+#: static/dev/javascripts/sections/settings.js:4661
+#: static/dev/javascripts/sections/settings.js:4871
+msgid "ID Card"
+msgstr "ID Card"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:507
+msgid ""
+"If the initial Release you clicked did not match your\n"
+"item, the simplest way to browse other variations of\n"
+"the same Master Release is in the Versions section of\n"
+"the Master Release page. Browse this area and find\n"
+"another version that more closely matches your item."
+msgstr ""
+"If the initial Release you clicked did not match your\n"
+"item, the simplest way to browse other variations of\n"
+"the same Master Release is in the Versions section of\n"
+"the Master Release page. Browse this area and find\n"
+"another version that more closely matches your item."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:494
+msgid ""
+"If this Release is not the correct representation of\n"
+"the item in your hands, try \"Viewing all Versions\""
+msgstr ""
+"If this Release is not the correct representation of\n"
+"the item in your hands, try \"Viewing all Versions\""
+
+#: static/dev/javascripts/sections/guest-cart.js:3262
+msgid ""
+"If you plan to use PayPal to pay, be sure that your shipping address on "
+"Discogs matches your shipping address on file with PayPal!"
+msgstr ""
+"If you plan to use PayPal to pay, be sure that your shipping address on "
+"Discogs matches your shipping address on file with PayPal!"
+
+#: static/dev/javascripts/sections/composition-edit.js:6715
+#: static/dev/javascripts/sections/subform/app.js:3216
+msgid "Ignore"
+msgstr "Ignore"
+
+#: static/dev/javascripts/discogs.js:14951
+#: static/dev/javascripts/discogs.js:19065
+#: static/dev/javascripts/discogs.js:19249
+msgid "In Cart"
+msgstr "In Cart"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:355
+msgid ""
+"In the Release Notes you can sometimes find valuable\n"
+"information about what distinguishes this Release\n"
+"from other versions. Compare these details with the\n"
+"details found on your item’s packaging or the\n"
+"physical media."
+msgstr ""
+"In the Release Notes you can sometimes find valuable\n"
+"information about what distinguishes this Release\n"
+"from other versions. Compare these details with the\n"
+"details found on your item’s packaging or the\n"
+"physical media."
+
+#: static/dev/javascripts/sections/subform/app.js:7684
+msgid "Index Track"
+msgstr "Index Track"
+
+#: static/dev/javascripts/sections/subform/app.js:7664
+msgid "Index Track Title"
+msgstr "Index Track Title"
+
+#: static/dev/javascripts/sections/subform/app.js:7617
+msgid "Insert Heading"
+msgstr "Insert Heading"
+
+#: static/dev/javascripts/sections/subform/app.js:7621
+msgid "Insert Index Track"
+msgstr "Insert Index Track"
+
+#: static/dev/javascripts/sections/subform/app.js:7613
+msgid "Insert Track"
+msgstr "Insert Track"
+
+#: static/dev/javascripts/chunk-offers.js:2338
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:760
+msgid "Inventory"
+msgstr "Inventory"
+
+#: static/dev/javascripts/sections/order.js:1174
+#: static/dev/javascripts/sections/order.js:1190
+msgid "Invoice Sent"
+msgstr "Invoice Sent"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:456
+msgid "Is this the correct Release?"
+msgstr "Is this the correct Release?"
+
+#: static/dev/javascripts/sections/composition-edit.js:6050
+#: static/dev/javascripts/sections/subform/app.js:2551
+#, python-format
+msgid ""
+"It appears you were editing this release %(lastModifiedFromNow)s "
+"(%(lastModified)s); would you like to restore your working session?"
+msgstr ""
+"It appears you were editing this release %(lastModifiedFromNow)s "
+"(%(lastModified)s); would you like to restore your working session?"
+
+#: static/dev/javascripts/chunk-offers.js:1482
+#: static/dev/javascripts/sections/order.js:1386
+msgid "Item"
+msgid_plural "Items"
+msgstr[0] "Item"
+msgstr[1] "Items"
+
+#: static/dev/javascripts/sections/collection-beta.js:6876
+msgid "Item Condition Comments"
+msgstr "Item Condition Comments"
+
+#: static/dev/javascripts/sections/collection-beta.js:6892
+msgid "Item Location"
+msgstr "Item Location"
+
+#: static/dev/javascripts/sections/collection-beta.js:6994
+msgid "Item weighs"
+msgstr "Item weighs"
+
+#: static/dev/javascripts/sections/feedback.js:202
+msgid "Items added to your collection"
+msgstr "Items added to your collection"
+
+#: static/dev/javascripts/sections/subform/app.js:6150
+msgid "Join"
+msgstr "Join"
+
+#: static/dev/javascripts/sections/order.js:347
+msgid "Just remove from order"
+msgstr "Just remove from order"
+
+#: static/dev/javascripts/sections/order.js:1695
+msgid ""
+"Keep your feedback <strong>factual</strong> and avoid making personal "
+"remarks."
+msgstr ""
+"Keep your feedback <strong>factual</strong> and avoid making personal "
+"remarks."
+
+#: static/dev/javascripts/discogs.js:17811
+#: static/dev/javascripts/sections/subform/app.js:4646
+msgid "Keyboard Shortcuts"
+msgstr "Keyboard Shortcuts"
+
+#: static/dev/javascripts/chunk-master-filtering.js:774
+#: static/dev/javascripts/sections/artist/tracks.js:12031
+#: static/dev/javascripts/sections/collection-beta.js:8121
+#: static/dev/javascripts/sections/composition-recordings.js:11240
+#: static/dev/javascripts/sections/composition.js:12024
+#: static/dev/javascripts/sections/recording.js:11935
+#: static/dev/javascripts/sections/subform/app.js:5321
+#: static/dev/javascripts/sections/tracks.js:11240
+msgid "Label"
+msgstr "Label"
+
+#: static/dev/javascripts/sections/collection-beta.js:5164
+msgid "Label A-Z"
+msgstr "Label A-Z"
+
+#: static/dev/javascripts/sections/collection-beta.js:5169
+msgid "Label Z-A"
+msgstr "Label Z-A"
+
+#: static/dev/javascripts/sections/composition-edit.js:6037
+#: static/dev/javascripts/sections/subform/app.js:2538
+msgid "Label, Company, Catalog Number, Etc."
+msgstr "Label, Company, Catalog Number, Etc."
+
+#: static/dev/javascripts/discogs.js:15891
+msgid "Labels"
+msgstr "Labels"
+
+#: static/dev/javascripts/sections/settings.js:3270
+#: static/dev/javascripts/sections/settings.js:3326
+#: static/dev/javascripts/sections/settings.js:3429
+#: static/dev/javascripts/sections/settings.js:3574
+msgid "Last Name"
+msgstr "Last Name"
+
+#: static/dev/javascripts/sections/guest-cart.js:3256
+msgid "Learn more about how to buy"
+msgstr "Learn more about how to buy"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:153
+#: static/dev/javascripts/sections/collection-tutorial.js:187
+msgid "Learn to filter results"
+msgstr "Learn to filter results"
+
+#: static/dev/javascripts/discogs.js:14177
+#: static/dev/javascripts/discogs.js:17285
+msgid "Less"
+msgstr "Less"
+
+#: static/dev/javascripts/sections/collection-beta.js:7025
+msgid "List For Sale"
+msgstr "List For Sale"
+
+#: static/dev/javascripts/chunk-offers.js:2344
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:766
+msgid "List Item For Sale"
+msgstr "List Item For Sale"
+
+#: static/dev/javascripts/chunk-offers.js:1399
+#: static/dev/javascripts/chunk-offers.js:1482
+msgid "Listed Price"
+msgstr "Listed Price"
+
+#: static/dev/javascripts/sections/quicklist.js:497
+msgid "Load next"
+msgstr "Load next"
+
+#: static/dev/javascripts/sections/collection-beta.js:7960
+#, python-format
+msgid "Loaded %(loadedCount)s/%(collectionCount)s items..."
+msgstr "Loaded %(loadedCount)s/%(collectionCount)s items..."
+
+#: static/dev/javascripts/chunk-master-filtering.js:380
+#: static/dev/javascripts/chunk-offers.js:631
+#: static/dev/javascripts/chunk-react-components.js:2060
+#: static/dev/javascripts/image/image-uploader-app.js:1119
+#: static/dev/javascripts/sections/artist/metaogs.js:83
+#: static/dev/javascripts/sections/image-uploader-app.js:1125
+#: static/dev/javascripts/sections/leaderboard.js:1343
+#: static/dev/javascripts/sections/settings.js:124
+#: static/dev/javascripts/sections/settings.js:1309
+#: static/dev/javascripts/sections/subform/app.js:1237
+msgid "Loading"
+msgstr "Loading"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11992
+#: static/dev/javascripts/sections/composition-recordings.js:11201
+#: static/dev/javascripts/sections/composition.js:11985
+#: static/dev/javascripts/sections/recording.js:11896
+#: static/dev/javascripts/sections/tracks.js:11201
+msgid "Loading Composition…"
+msgstr "Loading Composition…"
+
+#: static/dev/javascripts/sections/artist/tracks.js:3170
+#: static/dev/javascripts/sections/composition-recordings.js:2865
+#: static/dev/javascripts/sections/composition.js:3163
+#: static/dev/javascripts/sections/recording.js:3072
+#: static/dev/javascripts/sections/tracks.js:2865
+#, python-format
+msgid "Loading tracks for %(name)s"
+msgstr "Loading tracks for %(name)s"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11871
+#: static/dev/javascripts/sections/composition-recordings.js:11113
+#: static/dev/javascripts/sections/composition.js:11864
+#: static/dev/javascripts/sections/recording.js:11775
+#: static/dev/javascripts/sections/tracks.js:11113
+msgid "Loading variations"
+msgstr "Loading variations"
+
+#: static/dev/javascripts/sections/artist/tracks.js:3179
+#: static/dev/javascripts/sections/composition-recordings.js:2874
+#: static/dev/javascripts/sections/composition.js:3172
+#: static/dev/javascripts/sections/recording.js:3081
+#: static/dev/javascripts/sections/tracks.js:2874
+msgid "Loading your Collection and Wantlist"
+msgstr "Loading your Collection and Wantlist"
+
+#: static/dev/javascripts/sections/artist/tracks.js:8391
+#: static/dev/javascripts/sections/composition-recordings.js:7795
+#: static/dev/javascripts/sections/composition.js:8384
+#: static/dev/javascripts/sections/recording.js:8309
+#: static/dev/javascripts/sections/tracks.js:7795
+msgid "Loading..."
+msgstr "Loading..."
+
+#: static/dev/javascripts/sections/guest-cart.js:4384
+msgid "Log in"
+msgstr "Log in"
+
+#: static/dev/javascripts/sections/guest-cart.js:4367
+msgid "Looks like you are logged out."
+msgstr "Looks like you are logged out."
+
+#: static/dev/javascripts/sections/upload-beta.js:447
+msgid "Looks like you haven't used the bulk uploader before."
+msgstr "Looks like you haven't used the bulk uploader before."
+
+#: static/dev/javascripts/sections/collection-beta.js:6682
+msgid "Lowest"
+msgstr "Lowest"
+
+#: static/dev/javascripts/sections/subform/app.js:7629
+msgid "Make End Of Index Track"
+msgstr "Make End Of Index Track"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:43
+msgid "Make Public"
+msgstr "Make Public"
+
+#: static/dev/javascripts/sections/marketplace.js:192
+msgid "Make an Offer"
+msgstr "Make an Offer"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:44
+#, python-format
+msgid ""
+"Make your %(listType)s public if you'd like to be able to share it with "
+"friends and family."
+msgstr ""
+"Make your %(listType)s public if you'd like to be able to share it with "
+"friends and family."
+
+#: static/dev/javascripts/chunk-offers.js:2320
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:742
+msgid "Manage"
+msgstr "Manage"
+
+#: static/dev/javascripts/sections/collection-beta.js:12307
+msgid "Manage Collection Privacy"
+msgstr "Manage Collection Privacy"
+
+#: static/dev/javascripts/sections/collection-beta.js:12307
+msgid "Manage Custom Fields"
+msgstr "Manage Custom Fields"
+
+#: static/dev/javascripts/sections/collection-beta.js:12307
+msgid "Manage Folders"
+msgstr "Manage Folders"
+
+#: static/dev/javascripts/sections/collection-beta.js:7041
+msgid "Mark Collection Item for Sale"
+msgstr "Mark Collection Item for Sale"
+
+#: static/dev/javascripts/sections/collection-beta.js:8075
+msgid "Mark For Sale"
+msgstr "Mark For Sale"
+
+#: static/dev/javascripts/sections/order.js:415
+msgid "Mark as Refund Sent"
+msgstr "Mark as Refund Sent"
+
+#: static/dev/javascripts/sections/order.js:1223
+msgid "Mark as Shipped"
+msgstr "Mark as Shipped"
+
+#: static/dev/javascripts/chunk-offers.js:1621
+msgid "Marketplace / Offers"
+msgstr "Marketplace / Offers"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:506
+msgid "Master Release Page Versions"
+msgstr "Master Release Page Versions"
+
+#: static/dev/javascripts/sections/artist.js:408
+msgid ""
+"Master release saved successfully and will be processed soon. Please refresh"
+" the page in a minute to see the updated discography."
+msgstr ""
+"Master release saved successfully and will be processed soon. Please refresh"
+" the page in a minute to see the updated discography."
+
+#: static/dev/javascripts/sections/collection-beta.js:7405
+#: static/dev/javascripts/sections/collection-beta.js:8142
+#: static/dev/javascripts/sections/collection-beta.js:12225
+msgid "Max"
+msgstr "Max"
+
+#: static/dev/javascripts/sections/collection-beta.js:5229
+msgid "Maximum Value 0-9"
+msgstr "Maximum Value 0-9"
+
+#: static/dev/javascripts/sections/collection-beta.js:5224
+msgid "Maximum Value 9-0"
+msgstr "Maximum Value 9-0"
+
+#: static/dev/javascripts/sections/collection-beta.js:7400
+#: static/dev/javascripts/sections/collection-beta.js:8137
+#: static/dev/javascripts/sections/collection-beta.js:12221
+msgid "Med"
+msgstr "Med"
+
+#: static/dev/javascripts/sections/collection-beta.js:6733
+msgid "Media Condition"
+msgstr "Media Condition"
+
+#: static/dev/javascripts/sections/guest-cart.js:3961
+msgid "Media: "
+msgstr "Media: "
+
+#: static/dev/javascripts/sections/collection-beta.js:6687
+msgid "Median"
+msgstr "Median"
+
+#: static/dev/javascripts/sections/collection-beta.js:5219
+msgid "Median Value 0-9"
+msgstr "Median Value 0-9"
+
+#: static/dev/javascripts/sections/collection-beta.js:5214
+msgid "Median Value 9-0"
+msgstr "Median Value 9-0"
+
+#: static/dev/javascripts/sections/order.js:1182
+#: static/dev/javascripts/sections/order.js:1198
+msgid "Merged"
+msgstr "Merged"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11062
+#: static/dev/javascripts/sections/composition-recordings.js:10434
+#: static/dev/javascripts/sections/composition.js:11055
+#: static/dev/javascripts/sections/tracks.js:10434
+#, python-format
+msgid "Merged %(count)s duplicate Compositions"
+msgstr "Merged %(count)s duplicate Compositions"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11064
+#: static/dev/javascripts/sections/composition.js:11057
+#, python-format
+msgid "Merged %(count)s duplicate Recordings"
+msgstr "Merged %(count)s duplicate Recordings"
+
+#: static/dev/javascripts/sections/recording.js:11028
+#, python-format
+msgid "Merged %(count)s duplicate s"
+msgstr "Merged %(count)s duplicate s"
+
+#: static/dev/javascripts/sections/order.js:2173
+msgid "Message to the buyer (optional)"
+msgstr "Message to the buyer (optional)"
+
+#: static/dev/javascripts/sections/artist/tracks.js:10881
+#: static/dev/javascripts/sections/composition.js:10874
+#: static/dev/javascripts/sections/recording.js:10799
+msgid "Migrate All Recordings..."
+msgstr "Migrate All Recordings..."
+
+#: static/dev/javascripts/sections/composition-recordings.js:10381
+#: static/dev/javascripts/sections/tracks.js:10381
+msgid "Migrate All Tracks"
+msgstr "Migrate All Tracks"
+
+#: static/dev/javascripts/sections/artist/tracks.js:10827
+#: static/dev/javascripts/sections/composition-recordings.js:10180
+#: static/dev/javascripts/sections/composition.js:10820
+#: static/dev/javascripts/sections/recording.js:10745
+#: static/dev/javascripts/sections/tracks.js:10180
+msgid "Migrate All Tracks..."
+msgstr "Migrate All Tracks..."
+
+#: static/dev/javascripts/sections/artist/tracks.js:11071
+#: static/dev/javascripts/sections/composition.js:11064
+#: static/dev/javascripts/sections/recording.js:10975
+msgid "Migrate All s"
+msgstr "Migrate All s"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11082
+#: static/dev/javascripts/sections/composition-recordings.js:10392
+#: static/dev/javascripts/sections/composition.js:11075
+#: static/dev/javascripts/sections/tracks.js:10392
+#, python-format
+msgid "Migrating <strong>%(totalTracks)s</strong> Track"
+msgid_plural "Migrating <strong>%(totalTracks)s</strong> Tracks"
+msgstr[0] "Migrating <strong>%(totalTracks)s</strong> Track"
+msgstr[1] "Migrating <strong>%(totalTracks)s</strong> Tracks"
+
+#: static/dev/javascripts/sections/recording.js:10986
+#, python-format
+msgid "Migrating <strong>%(totalTracks)s</strong> s"
+msgid_plural "Migrating <strong>%(totalTracks)s</strong> Tracks"
+msgstr[0] "Migrating <strong>%(totalTracks)s</strong> s"
+msgstr[1] "Migrating <strong>%(totalTracks)s</strong> Tracks"
+
+#: static/dev/javascripts/sections/collection-beta.js:7395
+#: static/dev/javascripts/sections/collection-beta.js:8132
+#: static/dev/javascripts/sections/collection-beta.js:12217
+msgid "Min"
+msgstr "Min"
+
+#: static/dev/javascripts/sections/collection-beta.js:5209
+msgid "Minimum Value 0-9"
+msgstr "Minimum Value 0-9"
+
+#: static/dev/javascripts/sections/collection-beta.js:5204
+msgid "Minimum Value 9-0"
+msgstr "Minimum Value 9-0"
+
+#: static/dev/javascripts/sections/collection-beta.js:6749
+#: static/dev/javascripts/sections/collection-beta.js:6821
+msgid "Mint (M)"
+msgstr "Mint (M)"
+
+#: static/dev/javascripts/discogs.js:14177
+#: static/dev/javascripts/discogs.js:17285
+msgid "More"
+msgstr "More"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1026
+#: static/dev/javascripts/sections/composition-edit.js:898
+#: static/dev/javascripts/sections/image-uploader-app.js:209
+#: static/dev/javascripts/sections/settings.js:1216
+#: static/dev/javascripts/sections/subform/app.js:1144
+msgid "More Images"
+msgstr "More Images"
+
+#: static/dev/javascripts/sections/composition-edit.js:7897
+#: static/dev/javascripts/sections/subform/app.js:4398
+msgid "Move"
+msgstr "Move"
+
+#: static/dev/javascripts/sections/lists.js:1015
+#: static/dev/javascripts/sections/update-list.js:243
+msgid "Move Item to:"
+msgstr "Move Item to:"
+
+#: static/dev/javascripts/sections/collection-beta.js:8064
+msgid "Move to folder"
+msgstr "Move to folder"
+
+#: static/dev/javascripts/chunk-offers.js:2276
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:698
+msgid "My Store"
+msgstr "My Store"
+
+#: static/dev/javascripts/sections/settings.js:4387
+msgid "My bank mailing address is same"
+msgstr "My bank mailing address is same"
+
+#: static/dev/javascripts/sections/settings.js:4387
+msgid "My bank mailing address is same as company address"
+msgstr "My bank mailing address is same as company address"
+
+#: static/dev/javascripts/sections/settings.js:4775
+#: static/dev/javascripts/sections/subform/app.js:6136
+#: static/dev/javascripts/sections/subform/app.js:6407
+#: static/dev/javascripts/sections/subform/app.js:6831
+msgid "Name"
+msgstr "Name"
+
+#: static/dev/javascripts/sections/collection-beta.js:6754
+#: static/dev/javascripts/sections/collection-beta.js:6826
+msgid "Near Mint (NM or M-)"
+msgstr "Near Mint (NM or M-)"
+
+#: static/dev/javascripts/sections/order.js:1662
+msgid "Negative"
+msgstr "Negative"
+
+#: static/dev/javascripts/sections/order.js:1646
+msgid "Neutral"
+msgstr "Neutral"
+
+#: static/dev/javascripts/sections/order.js:1024
+#: static/dev/javascripts/sections/order.js:1700
+#: static/dev/javascripts/sections/order.js:2185
+msgid "Never Mind"
+msgstr "Never Mind"
+
+#: static/dev/javascripts/chunk-offers.js:1007
+#: static/dev/javascripts/chunk-react-components.js:2983
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:413
+#, python-format
+msgid "New %(userType)s"
+msgstr "New %(userType)s"
+
+#: static/dev/javascripts/sections/order.js:1172
+#: static/dev/javascripts/sections/order.js:1188
+msgid "New Order"
+msgstr "New Order"
+
+#: static/dev/javascripts/sections/collection-beta.js:5134
+msgid "Newest Additions"
+msgstr "Newest Additions"
+
+#: static/dev/javascripts/sections/collection-beta.js:11770
+#: static/dev/javascripts/sections/collection-tutorial.js:223
+#: static/dev/javascripts/sections/collection-tutorial.js:251
+#: static/dev/javascripts/sections/collection-tutorial.js:276
+#: static/dev/javascripts/sections/collection-tutorial.js:301
+#: static/dev/javascripts/sections/collection-tutorial.js:331
+#: static/dev/javascripts/sections/collection-tutorial.js:361
+#: static/dev/javascripts/sections/collection-tutorial.js:391
+#: static/dev/javascripts/sections/settings.js:3160
+#: static/dev/javascripts/sections/settings.js:4076
+msgid "Next"
+msgstr "Next"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:470
+msgid "No"
+msgstr "No"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11843
+#: static/dev/javascripts/sections/composition.js:11836
+#: static/dev/javascripts/sections/recording.js:11747
+msgid "No  Title variations"
+msgstr "No  Title variations"
+
+#: static/dev/javascripts/chunk-offers.js:1451
+#, python-format
+msgid "No %(type)s offers found."
+msgstr "No %(type)s offers found."
+
+#: static/dev/javascripts/sections/composition-recordings.js:11085
+#: static/dev/javascripts/sections/tracks.js:11085
+msgid "No Composition Title variations"
+msgstr "No Composition Title variations"
+
+#: static/dev/javascripts/sections/leaderboard.js:600
+msgid "No Contributors Yet!"
+msgstr "No Contributors Yet!"
+
+#: static/dev/javascripts/sections/collection-beta.js:6816
+msgid "No Cover"
+msgstr "No Cover"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:198
+msgid "No Search Results"
+msgstr "No Search Results"
+
+#: static/dev/javascripts/sections/leaderboard.js:752
+msgid "No Submissions Yet!"
+msgstr "No Submissions Yet!"
+
+#: static/dev/javascripts/chunk-graphs.js:48
+msgid "No data points to graph"
+msgstr "No data points to graph"
+
+#: static/dev/javascripts/sections/collection-beta.js:7877
+msgid "No items found"
+msgstr "No items found"
+
+#: static/dev/javascripts/sections/subform/app.js:7261
+msgid "No rating"
+msgstr "No rating"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11411
+#: static/dev/javascripts/sections/composition-recordings.js:10684
+#: static/dev/javascripts/sections/composition.js:11404
+#: static/dev/javascripts/sections/recording.js:11315
+#: static/dev/javascripts/sections/tracks.js:10684
+#, python-format
+msgid "No results for %(query)s"
+msgstr "No results for %(query)s"
+
+#: static/dev/javascripts/chunk-master-filtering.js:658
+msgid "No search results found"
+msgstr "No search results found"
+
+#: static/dev/javascripts/chunk-master-filtering.js:658
+msgid "No search results found using these filters:"
+msgstr "No search results found using these filters:"
+
+#: static/dev/javascripts/sections/shipping.js:63
+msgid ""
+"No shipping methods have been added to this policy. This means that you'll "
+"need to tell buyers how much shipping will cost."
+msgstr ""
+"No shipping methods have been added to this policy. This means that you'll "
+"need to tell buyers how much shipping will cost."
+
+#: static/dev/javascripts/sections/guest-cart.js:4563
+msgid "No shipping or payment terms provided."
+msgstr "No shipping or payment terms provided."
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:230
+#, python-format
+msgid "No, I want a private %(listType)s"
+msgstr "No, I want a private %(listType)s"
+
+#: static/dev/javascripts/sections/collection-beta.js:8040
+msgid "No, don't delete"
+msgstr "No, don't delete"
+
+#: static/dev/javascripts/sections/collection-beta.js:6806
+msgid "Not Graded"
+msgstr "Not Graded"
+
+#: static/dev/javascripts/sections/guest-cart.js:4058
+msgid "Not rated yet"
+msgstr "Not rated yet"
+
+#: static/dev/javascripts/sections/composition-edit.js:6046
+#: static/dev/javascripts/sections/subform/app.js:2547
+msgid "Notes"
+msgstr "Notes"
+
+#: static/dev/javascripts/sections/cart.js:915
+#: static/dev/javascripts/sections/guest-cart.js:2708
+#: static/dev/javascripts/sections/marketplace-list.js:98
+#: static/dev/javascripts/sections/marketplace-sell-item.js:45
+#: static/dev/javascripts/sections/marketplace.js:45
+#: static/dev/javascripts/sections/order.js:98
+#: static/dev/javascripts/sections/quicklist.js:45
+#: static/dev/javascripts/unit-test-bundle.js:1196
+msgid ""
+"Noticeable groove wear and light scratches. Surface noise will not overpower"
+" the music."
+msgstr ""
+"Noticeable groove wear and light scratches. Surface noise will not overpower"
+" the music."
+
+#: static/dev/javascripts/sections/cart.js:925
+#: static/dev/javascripts/sections/guest-cart.js:2718
+#: static/dev/javascripts/sections/marketplace-list.js:108
+#: static/dev/javascripts/sections/marketplace-sell-item.js:55
+#: static/dev/javascripts/sections/marketplace.js:55
+#: static/dev/javascripts/sections/order.js:108
+#: static/dev/javascripts/sections/quicklist.js:55
+#: static/dev/javascripts/unit-test-bundle.js:1206
+msgid ""
+"Noticeable light scuffs or scratches. Will play through without problems."
+msgstr ""
+"Noticeable light scuffs or scratches. Will play through without problems."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:457
+msgid ""
+"Now that you've compared the details of this Release,\n"
+"does it match the details of the actual item you have?"
+msgstr ""
+"Now that you've compared the details of this Release,\n"
+"does it match the details of the actual item you have?"
+
+#: static/dev/javascripts/chunk-offers.js:1402
+msgid "Offer"
+msgstr "Offer"
+
+#: static/dev/javascripts/chunk-offers.js:1482
+msgid "Offer Amount"
+msgstr "Offer Amount"
+
+#: static/dev/javascripts/chunk-offers.js:2334
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:756
+msgid "Offers"
+msgstr "Offers"
+
+#: static/dev/javascripts/sections/artist/tracks.js:3206
+#: static/dev/javascripts/sections/composition-recordings.js:2901
+#: static/dev/javascripts/sections/composition.js:3199
+#: static/dev/javascripts/sections/recording.js:3108
+#: static/dev/javascripts/sections/tracks.js:2901
+msgid ""
+"Oh no! Looks like there is too much information to load this list right now."
+" We are monitoring and working on this, thanks for your patience!"
+msgstr ""
+"Oh no! Looks like there is too much information to load this list right now."
+" We are monitoring and working on this, thanks for your patience!"
+
+#: static/dev/javascripts/discogs.js:10949
+#: static/dev/javascripts/discogs.js:14278
+#: static/dev/javascripts/discogs.js:16501
+#: static/dev/javascripts/sections/lists.js:1022
+#: static/dev/javascripts/sections/order.js:370
+#: static/dev/javascripts/sections/update-list.js:250
+msgid "Okay"
+msgstr "Okay"
+
+#: static/dev/javascripts/sections/collection-beta.js:5139
+msgid "Oldest Additions"
+msgstr "Oldest Additions"
+
+#: static/dev/javascripts/sections/collection-beta.js:5449
+msgid "Only 1 item can be marked for sale at a time."
+msgstr "Only 1 item can be marked for sale at a time."
+
+#: static/dev/javascripts/chunk-master-filtering.js:298
+#: static/dev/javascripts/chunk-react-components.js:1193
+#: static/dev/javascripts/sections/collection-beta.js:6274
+#: static/dev/javascripts/sections/collection-beta.js:7756
+#: static/dev/javascripts/sections/collection-beta.js:12774
+msgid "Oops, something went wrong."
+msgstr "Oops, something went wrong."
+
+#: static/dev/javascripts/sections/composition-edit.js:6290
+#: static/dev/javascripts/sections/subform/app.js:2791
+msgid "Open In New Window"
+msgstr "Open In New Window"
+
+#: static/dev/javascripts/sections/collection-beta.js:6897
+#: static/dev/javascripts/sections/collection-beta.js:6917
+#: static/dev/javascripts/sections/collection-beta.js:6984
+msgid "Optional"
+msgstr "Optional"
+
+#: static/dev/javascripts/sections/order.js:1181
+#: static/dev/javascripts/sections/order.js:1197
+msgid "Order Changed"
+msgstr "Order Changed"
+
+#: static/dev/javascripts/sections/order.js:1420
+msgid "Order ID"
+msgstr "Order ID"
+
+#: static/dev/javascripts/sections/guest-cart.js:4070
+msgid "Order from"
+msgstr "Order from"
+
+#: static/dev/javascripts/chunk-offers.js:2328
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:750
+msgid "Orders"
+msgstr "Orders"
+
+#: static/dev/javascripts/sections/settings.js:3623
+msgid "Owner Address"
+msgstr "Owner Address"
+
+#: static/dev/javascripts/sections/settings.js:3559
+msgid "Owner Details"
+msgstr "Owner Details"
+
+#: static/dev/javascripts/sections/settings.js:4801
+msgid "Owner's Address"
+msgstr "Owner's Address"
+
+#: static/dev/javascripts/sections/settings.js:4659
+#: static/dev/javascripts/sections/settings.js:4870
+msgid "Passport"
+msgstr "Passport"
+
+#: static/dev/javascripts/discogs.js:14342
+msgid "Password strength:"
+msgstr "Password strength:"
+
+#: static/dev/javascripts/sections/guest-cart.js:3732
+msgid "Payment"
+msgstr "Payment"
+
+#: static/dev/javascripts/sections/order.js:1175
+#: static/dev/javascripts/sections/order.js:1191
+msgid "Payment Pending"
+msgstr "Payment Pending"
+
+#: static/dev/javascripts/sections/order.js:1176
+#: static/dev/javascripts/sections/order.js:1192
+msgid "Payment Received"
+msgstr "Payment Received"
+
+#: static/dev/javascripts/chunk-offers.js:1520
+#: static/dev/javascripts/image/image-uploader-app.js:1262
+#: static/dev/javascripts/sections/image-uploader-app.js:1268
+#: static/dev/javascripts/sections/settings.js:1452
+#: static/dev/javascripts/sections/subform/app.js:1380
+msgid "Pending"
+msgstr "Pending"
+
+#: static/dev/javascripts/chunk-offers.js:951
+#: static/dev/javascripts/chunk-react-components.js:2927
+msgid "Per page"
+msgstr "Per page"
+
+#: static/dev/javascripts/sections/settings.js:3414
+#: static/dev/javascripts/sections/settings.js:4732
+msgid "Personal Details"
+msgstr "Personal Details"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:50
+#: static/dev/javascripts/sections/settings/notifications.js:633
+msgid "Personal Email"
+msgstr "Personal Email"
+
+#: static/dev/javascripts/sections/settings.js:3299
+#: static/dev/javascripts/sections/settings.js:3317
+#: static/dev/javascripts/sections/settings.js:3615
+#: static/dev/javascripts/sections/settings.js:3711
+#: static/dev/javascripts/sections/settings.js:4779
+#: static/dev/javascripts/sections/settings.js:4801
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: static/dev/javascripts/sections/settings.js:4652
+#: static/dev/javascripts/sections/settings.js:4846
+msgid "Photo ID"
+msgstr "Photo ID"
+
+#: static/dev/javascripts/sections/guest-cart.js:3811
+msgid "Place Order"
+msgstr "Place Order"
+
+#: static/dev/javascripts/sections/cart.js:696
+msgid "Place order"
+msgstr "Place order"
+
+#: static/dev/javascripts/sections/cart.js:694
+msgid "Place order and pay now"
+msgstr "Place order and pay now"
+
+#: static/dev/javascripts/sections/cart.js:416
+msgid "Placing order..."
+msgstr "Placing order..."
+
+#: static/dev/javascripts/sections/composition-edit.js:6059
+#: static/dev/javascripts/sections/subform/app.js:2560
+msgid ""
+"Please check all artist names. If the artist is a legitimate new entry for "
+"the database, please list them in the <em>Submission Notes</em> so other "
+"users can check."
+msgstr ""
+"Please check all artist names. If the artist is a legitimate new entry for "
+"the database, please list them in the <em>Submission Notes</em> so other "
+"users can check."
+
+#: static/dev/javascripts/sections/composition-edit.js:6060
+#: static/dev/javascripts/sections/subform/app.js:2561
+msgid ""
+"Please check all label names. If the label is a legitimate new entry for the"
+" database, please list them in the <em>Submission Notes</em> so other users "
+"can check."
+msgstr ""
+"Please check all label names. If the label is a legitimate new entry for the"
+" database, please list them in the <em>Submission Notes</em> so other users "
+"can check."
+
+#: static/dev/javascripts/sections/composition-edit.js:6058
+#: static/dev/javascripts/sections/subform/app.js:2559
+msgid ""
+"Please check the release(s) above to make sure that you are not submitting a"
+" duplicate."
+msgstr ""
+"Please check the release(s) above to make sure that you are not submitting a"
+" duplicate."
+
+#: static/dev/javascripts/sections/composition-edit.js:6062
+#: static/dev/javascripts/sections/subform/app.js:2563
+#, python-format
+msgid ""
+"Please check these warning(s) against your submission, and if needed the "
+"%(startTag1)sSubmission Guidelines%(endTag1)s. If you have verified a "
+"warning is not applicable to your submission, please tick the box to clear "
+"it, otherwise please correct the error. If there are any warnings, please "
+"write a short explanation in the Submission Notes. The more information you "
+"can give at this stage, the easier and quicker your submission can be "
+"processed and accepted to the database.  If you have any queries or "
+"problems, please save this submission to your drafts, and ask in the "
+"%(startTag2)sSubmission Help subforum%(endTag2)s. Thank you!"
+msgstr ""
+"Please check these warning(s) against your submission, and if needed the "
+"%(startTag1)sSubmission Guidelines%(endTag1)s. If you have verified a "
+"warning is not applicable to your submission, please tick the box to clear "
+"it, otherwise please correct the error. If there are any warnings, please "
+"write a short explanation in the Submission Notes. The more information you "
+"can give at this stage, the easier and quicker your submission can be "
+"processed and accepted to the database.  If you have any queries or "
+"problems, please save this submission to your drafts, and ask in the "
+"%(startTag2)sSubmission Help subforum%(endTag2)s. Thank you!"
+
+#: static/dev/javascripts/sections/quicklist.js:540
+msgid "Please choose a file to upload"
+msgstr "Please choose a file to upload"
+
+#: static/dev/javascripts/sections/settings.js:5110
+msgid "Please don't refresh your browser window."
+msgstr "Please don't refresh your browser window."
+
+#: static/dev/javascripts/sections/homepage-registration.js:47
+msgid "Please elaborate"
+msgstr "Please elaborate"
+
+#: static/dev/javascripts/sections/settings.js:4349
+#, python-format
+msgid "Please ensure you provide the bank account used for %(name)s."
+msgstr "Please ensure you provide the bank account used for %(name)s."
+
+#: static/dev/javascripts/sections/merge.js:106
+#, python-format
+msgid "Please enter %(n)s unique Release IDs."
+msgstr "Please enter %(n)s unique Release IDs."
+
+#: static/dev/javascripts/sections/merge.js:111
+#, python-format
+msgid "Please enter %(n)s valid Release IDs."
+msgstr "Please enter %(n)s valid Release IDs."
+
+#: static/dev/javascripts/sections/master.js:39
+msgid "Please enter a Key Release ID"
+msgstr "Please enter a Key Release ID"
+
+#: static/dev/javascripts/chunk-addtolist.js:128
+#: static/dev/javascripts/sections/lists.js:1089
+#: static/dev/javascripts/sections/update-list.js:317
+msgid "Please enter a title."
+msgstr "Please enter a title."
+
+#: static/dev/javascripts/sections/homepage-registration.js:65
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+#: static/dev/javascripts/sections/master.js:40
+msgid ""
+"Please enter at least one Release ID in addition to the Key Release ID."
+msgstr ""
+"Please enter at least one Release ID in addition to the Key Release ID."
+
+#: static/dev/javascripts/sections/master.js:46
+msgid "Please enter your Release IDs. Be sure to include the Key Release ID."
+msgstr "Please enter your Release IDs. Be sure to include the Key Release ID."
+
+#: static/dev/javascripts/sections/merge.js:116
+msgid "Please indicate which Release ID has accurate data."
+msgstr "Please indicate which Release ID has accurate data."
+
+#: static/dev/javascripts/sections/guest-cart.js:4372
+msgid "Please log in or create an account to check out!"
+msgstr "Please log in or create an account to check out!"
+
+#: static/dev/javascripts/sections/settings.js:4972
+msgid "Please make sure all of the information is correct."
+msgstr "Please make sure all of the information is correct."
+
+#: static/dev/javascripts/sections/merge.js:119
+msgid "Please provide a detailed reason for the merge."
+msgstr "Please provide a detailed reason for the merge."
+
+#: static/dev/javascripts/sections/settings.js:4955
+msgid "Please review and accept terms and conditions before submitting."
+msgstr "Please review and accept terms and conditions before submitting."
+
+#: static/dev/javascripts/sections/artist.js:358
+msgid "Please select a key release."
+msgstr "Please select a key release."
+
+#: static/dev/javascripts/sections/settings.js:3210
+#: static/dev/javascripts/sections/settings.js:4273
+msgid "Please select a state."
+msgstr "Please select a state."
+
+#: static/dev/javascripts/chunk-addtolist.js:140
+msgid "Please select an existing list."
+msgstr "Please select an existing list."
+
+#: static/dev/javascripts/sections/collection.js:590
+#: static/dev/javascripts/sections/wantlist.js:112
+msgid "Please select an item to remove"
+msgstr "Please select an item to remove"
+
+#: static/dev/javascripts/javascripts/marketplace/order/purchase-to-collection.js:287
+#: static/dev/javascripts/marketplace/order/purchase-to-collection.js:118
+msgid "Please select at least one order."
+msgstr "Please select at least one order."
+
+#: static/dev/javascripts/sections/collection-beta.js:5444
+#, python-format
+msgid ""
+"Please set up your %(open_tag)sseller settings%(close_tag)s before listing "
+"an item for sale."
+msgstr ""
+"Please set up your %(open_tag)sseller settings%(close_tag)s before listing "
+"an item for sale."
+
+#: static/dev/javascripts/sections/settings.js:3090
+msgid ""
+"Please update your browser to the latest version and try signing up again."
+msgstr ""
+"Please update your browser to the latest version and try signing up again."
+
+#: static/dev/javascripts/sections/settings.js:4654
+msgid "Please upload a photo ID for identity verification."
+msgstr "Please upload a photo ID for identity verification."
+
+#: static/dev/javascripts/sections/settings.js:2824
+msgid "Please upload an bank statement before continuing"
+msgstr "Please upload an bank statement before continuing"
+
+#: static/dev/javascripts/sections/settings.js:2806
+msgid "Please upload an image before continuing"
+msgstr "Please upload an image before continuing"
+
+#: static/dev/javascripts/sections/collection-beta.js:6784
+#: static/dev/javascripts/sections/collection-beta.js:6856
+msgid "Poor (P)"
+msgstr "Poor (P)"
+
+#: static/dev/javascripts/sections/shipping.js:232
+msgid "Popular Destinations"
+msgstr "Popular Destinations"
+
+#: static/dev/javascripts/sections/subform/app.js:7966
+msgid "Pos"
+msgstr "Pos"
+
+#: static/dev/javascripts/sections/order.js:1630
+msgid "Positive"
+msgstr "Positive"
+
+#: static/dev/javascripts/sections/history-form.js:116
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: static/dev/javascripts/sections/settings.js:3218
+#: static/dev/javascripts/sections/settings.js:3499
+#: static/dev/javascripts/sections/settings.js:3654
+#: static/dev/javascripts/sections/settings.js:3761
+#: static/dev/javascripts/sections/settings.js:4277
+#: static/dev/javascripts/sections/settings.js:4419
+msgid "Postal Code"
+msgstr "Postal Code"
+
+#: static/dev/javascripts/sections/artist.js:980
+#: static/dev/javascripts/sections/label.js:149
+#: static/dev/javascripts/sections/release.js:537
+#: static/dev/javascripts/sections/reviews.js:149
+msgid "Posting"
+msgstr "Posting"
+
+#: static/dev/javascripts/sections/collection-beta.js:11724
+msgid "Prev"
+msgstr "Prev"
+
+#: static/dev/javascripts/chunk-react-components.js:3611
+msgid "Preview"
+msgstr "Preview"
+
+#: static/dev/javascripts/sections/subform/app.js:5374
+#: static/dev/javascripts/sections/subform/app.js:5707
+msgid "Preview / Submit"
+msgstr "Preview / Submit"
+
+#: static/dev/javascripts/sections/master.js:49
+#: static/dev/javascripts/sections/update-preview.js:32
+msgid "Preview Loading"
+msgstr "Preview Loading"
+
+#: static/dev/javascripts/sections/history-form.js:103
+msgid "Previewing..."
+msgstr "Previewing..."
+
+#: static/dev/javascripts/sections/upload-beta.js:496
+msgid "Previous Uploads"
+msgstr "Previous Uploads"
+
+#: static/dev/javascripts/sections/collection-beta.js:6954
+#, python-format
+msgid "Price in %(currency)s"
+msgstr "Price in %(currency)s"
+
+#: static/dev/javascripts/sections/settings.js:4785
+msgid "Primary Owner"
+msgstr "Primary Owner"
+
+#: static/dev/javascripts/sections/collection-beta.js:6899
+#: static/dev/javascripts/sections/collection-beta.js:6919
+msgid "Private"
+msgstr "Private"
+
+#: static/dev/javascripts/sections/collection-beta.js:6912
+msgid "Private Comments"
+msgstr "Private Comments"
+
+#: static/dev/javascripts/sections/quicklist.js:555
+msgid "Processing"
+msgstr "Processing"
+
+#: static/dev/javascripts/sections/homepage-registration.js:79
+msgid "Prove you're not a robot"
+msgstr "Prove you're not a robot"
+
+#: static/dev/javascripts/sections/subform/app.js:6672
+msgid "Qty:"
+msgstr "Qty:"
+
+#: static/dev/javascripts/sections/subform/app.js:4657
+msgid "Quick Start Guide"
+msgstr "Quick Start Guide"
+
+#: static/dev/javascripts/sections/collection-beta.js:12318
+msgid "Random Item"
+msgstr "Random Item"
+
+#: static/dev/javascripts/sections/shipping.js:425
+msgid "Ranges overlap or are ordered incorrectly"
+msgstr "Ranges overlap or are ordered incorrectly"
+
+#: static/dev/javascripts/discogs.js:17153
+msgid "Rate this release"
+msgstr "Rate this release"
+
+#: static/dev/javascripts/discogs.js:17096
+#, python-format
+msgid "Rate this release %(n)s star."
+msgid_plural "Rate this release %(n)s stars."
+msgstr[0] "Rate this release %(n)s star."
+msgstr[1] "Rate this release %(n)s stars."
+
+#: static/dev/javascripts/sections/collection-beta.js:8157
+#: static/dev/javascripts/sections/composition-edit.js:6048
+#: static/dev/javascripts/sections/subform/app.js:2549
+msgid "Rating"
+msgstr "Rating"
+
+#: static/dev/javascripts/sections/collection-beta.js:5234
+msgid "Rating 0-5"
+msgstr "Rating 0-5"
+
+#: static/dev/javascripts/sections/collection-beta.js:5239
+msgid "Rating 5-0"
+msgstr "Rating 5-0"
+
+#: static/dev/javascripts/sections/subform/app.js:5162
+#, python-format
+msgid "Read and understand the %(startTag)sSubmission Guide%(endTag)s"
+msgstr "Read and understand the %(startTag)sSubmission Guide%(endTag)s"
+
+#: static/dev/javascripts/sections/cart.js:918
+#: static/dev/javascripts/sections/cart.js:919
+#: static/dev/javascripts/sections/guest-cart.js:2711
+#: static/dev/javascripts/sections/guest-cart.js:2712
+#: static/dev/javascripts/sections/marketplace-list.js:101
+#: static/dev/javascripts/sections/marketplace-list.js:102
+#: static/dev/javascripts/sections/marketplace-sell-item.js:48
+#: static/dev/javascripts/sections/marketplace-sell-item.js:49
+#: static/dev/javascripts/sections/marketplace.js:48
+#: static/dev/javascripts/sections/marketplace.js:49
+#: static/dev/javascripts/sections/order.js:101
+#: static/dev/javascripts/sections/order.js:102
+#: static/dev/javascripts/sections/quicklist.js:48
+#: static/dev/javascripts/sections/quicklist.js:49
+#: static/dev/javascripts/unit-test-bundle.js:1199
+#: static/dev/javascripts/unit-test-bundle.js:1200
+msgid ""
+"Record is cracked, badly warped, or won't play through without skipping or "
+"repeating."
+msgstr ""
+"Record is cracked, badly warped, or won't play through without skipping or "
+"repeating."
+
+#: static/dev/javascripts/sections/recording.js:2734
+msgid "Recording has no Tracks yet"
+msgstr "Recording has no Tracks yet"
+
+#: static/dev/javascripts/sections/order.js:1183
+#: static/dev/javascripts/sections/order.js:1199
+msgid "Refund Sent"
+msgstr "Refund Sent"
+
+#: static/dev/javascripts/sections/artist/tracks.js:12026
+#: static/dev/javascripts/sections/composition-recordings.js:11235
+#: static/dev/javascripts/sections/composition.js:12019
+#: static/dev/javascripts/sections/recording.js:11930
+#: static/dev/javascripts/sections/subform/app.js:4603
+#: static/dev/javascripts/sections/tracks.js:11235
+msgid "Release"
+msgstr "Release"
+
+#: static/dev/javascripts/sections/subform/app.js:4651
+msgid "Release History"
+msgstr "Release History"
+
+#: static/dev/javascripts/sections/merge.js:94
+msgid "Release not found. Please try another Release ID."
+msgstr "Release not found. Please try another Release ID."
+
+#: static/dev/javascripts/sections/composition-edit.js:6041
+#: static/dev/javascripts/sections/subform/app.js:2542
+msgid "Released"
+msgstr "Released"
+
+#: static/dev/javascripts/discogs.js:15891
+msgid "Releases"
+msgstr "Releases"
+
+#: static/dev/javascripts/sections/order.js:1123
+#, python-format
+msgid "Relist %(n)s item for sale."
+msgid_plural "Relist %(n)s items for sale."
+msgstr[0] "Relist %(n)s item for sale."
+msgstr[1] "Relist %(n)s items for sale."
+
+#: static/dev/javascripts/sections/composition-edit.js:7902
+#: static/dev/javascripts/sections/guest-cart.js:4004
+#: static/dev/javascripts/sections/guest-cart.js:4102
+#: static/dev/javascripts/sections/subform/app.js:4403
+#: static/dev/javascripts/sections/subform/app.js:7609
+msgid "Remove"
+msgstr "Remove"
+
+#: static/dev/javascripts/sections/dashboard.js:493
+#: static/dev/javascripts/sections/user.js:47
+#, python-format
+msgid "Remove %(username)s from your friends list?"
+msgstr "Remove %(username)s from your friends list?"
+
+#: static/dev/javascripts/sections/subform/app.js:6157
+#: static/dev/javascripts/sections/subform/app.js:6426
+msgid "Remove ANV"
+msgstr "Remove ANV"
+
+#: static/dev/javascripts/sections/subform/app.js:7406
+msgid "Remove Artist"
+msgstr "Remove Artist"
+
+#: static/dev/javascripts/sections/subform/app.js:6261
+msgid "Remove Description"
+msgstr "Remove Description"
+
+#: static/dev/javascripts/chunk-react-components.js:933
+msgid "Remove From Wantlist"
+msgstr "Remove From Wantlist"
+
+#: static/dev/javascripts/sections/order.js:365
+msgid "Remove Item"
+msgid_plural "Remove Items"
+msgstr[0] "Remove Item"
+msgstr[1] "Remove Items"
+
+#: static/dev/javascripts/chunk-react-components.js:923
+msgid "Remove from Collection"
+msgstr "Remove from Collection"
+
+#: static/dev/javascripts/sections/order.js:347
+msgid "Remove from order and inventory"
+msgstr "Remove from order and inventory"
+
+#: static/dev/javascripts/sections/order.js:347
+msgid "Remove from order and relist"
+msgstr "Remove from order and relist"
+
+#: static/dev/javascripts/discogs.js:17069
+msgid "Remove rating"
+msgstr "Remove rating"
+
+#: static/dev/javascripts/sections/shipping.js:642
+msgid "Remove this shipping method?"
+msgstr "Remove this shipping method?"
+
+#: static/dev/javascripts/sections/shipping.js:659
+msgid "Remove this shipping policy?"
+msgstr "Remove this shipping policy?"
+
+#: static/dev/javascripts/chunk-offers.js:1077
+#: static/dev/javascripts/chunk-react-components.js:3053
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:483
+#, python-format
+msgid "Reply from <a href='%(profileUrl)s'>%(username)s</a>:"
+msgstr "Reply from <a href='%(profileUrl)s'>%(username)s</a>:"
+
+#: static/dev/javascripts/sections/artist.js:981
+#: static/dev/javascripts/sections/label.js:150
+#: static/dev/javascripts/sections/release.js:538
+#: static/dev/javascripts/sections/reviews.js:150
+msgid "Replying"
+msgstr "Replying"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1279
+#: static/dev/javascripts/sections/image-uploader-app.js:1285
+#: static/dev/javascripts/sections/settings.js:1469
+#: static/dev/javascripts/sections/subform/app.js:1397
+msgid "Report Abuse"
+msgstr "Report Abuse"
+
+#: static/dev/javascripts/discogs.js:13915
+msgid "Report Post"
+msgstr "Report Post"
+
+#: static/dev/javascripts/sections/settings/notifications.js:1071
+msgid "Restore Defaults..."
+msgstr "Restore Defaults..."
+
+#: static/dev/javascripts/sections/artist/tracks.js:11110
+#: static/dev/javascripts/sections/composition-recordings.js:10420
+#: static/dev/javascripts/sections/composition.js:11103
+#: static/dev/javascripts/sections/recording.js:11014
+#: static/dev/javascripts/sections/tracks.js:10420
+msgid "Result"
+msgstr "Result"
+
+#: static/dev/javascripts/sections/order.js:1229
+msgid "Return to Invoice Sent"
+msgstr "Return to Invoice Sent"
+
+#: static/dev/javascripts/sections/order.js:1230
+msgid "Return to Payment Pending"
+msgstr "Return to Payment Pending"
+
+#: static/dev/javascripts/sections/order.js:1231
+msgid "Return to Payment Received"
+msgstr "Return to Payment Received"
+
+#: static/dev/javascripts/sections/order.js:1232
+msgid "Return to Shipped"
+msgstr "Return to Shipped"
+
+#: static/dev/javascripts/chunk-offers.js:1104
+#: static/dev/javascripts/chunk-react-components.js:3080
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:510
+msgid "Review request pending."
+msgstr "Review request pending."
+
+#: static/dev/javascripts/chunk-offers.js:1103
+#: static/dev/javascripts/chunk-react-components.js:3079
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:509
+msgid "Review request resolved and denied."
+msgstr "Review request resolved and denied."
+
+#: static/dev/javascripts/chunk-offers.js:1102
+#: static/dev/javascripts/chunk-react-components.js:3078
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:508
+msgid "Review request resolved and removed."
+msgstr "Review request resolved and removed."
+
+#: static/dev/javascripts/sections/settings.js:4254
+#: static/dev/javascripts/sections/settings.js:4353
+#: static/dev/javascripts/sections/settings.js:4828
+msgid "Routing Number"
+msgstr "Routing Number"
+
+#: static/dev/javascripts/sections/guest-cart.js:3271
+msgid "Safe Buying Tips"
+msgstr "Safe Buying Tips"
+
+#: static/dev/javascripts/sections/guest-cart.js:3784
+#: static/dev/javascripts/sections/guest-cart.js:4504
+msgid "Sales & Transaction Policy"
+msgstr "Sales & Transaction Policy"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:92
+#: static/dev/javascripts/discogs.js:18770
+#: static/dev/javascripts/sections/artist.js:253
+#: static/dev/javascripts/sections/artist/tracks.js:8105
+#: static/dev/javascripts/sections/cart.js:341
+#: static/dev/javascripts/sections/collection-beta.js:6141
+#: static/dev/javascripts/sections/composition-recordings.js:7509
+#: static/dev/javascripts/sections/composition.js:8098
+#: static/dev/javascripts/sections/lists.js:1169
+#: static/dev/javascripts/sections/recording.js:8023
+#: static/dev/javascripts/sections/subform/app.js:7492
+#: static/dev/javascripts/sections/tracks.js:7509
+#: static/dev/javascripts/sections/update-list.js:397
+msgid "Save"
+msgstr "Save"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1514
+#: static/dev/javascripts/sections/artist/tracks.js:11128
+#: static/dev/javascripts/sections/cart.js:338
+#: static/dev/javascripts/sections/composition-recordings.js:10438
+#: static/dev/javascripts/sections/composition.js:11121
+#: static/dev/javascripts/sections/image-uploader-app.js:1520
+#: static/dev/javascripts/sections/recording.js:11032
+#: static/dev/javascripts/sections/settings.js:1704
+#: static/dev/javascripts/sections/subform/app.js:1632
+#: static/dev/javascripts/sections/tracks.js:10438
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: static/dev/javascripts/sections/subform/app.js:5692
+msgid "Save Draft"
+msgstr "Save Draft"
+
+#: static/dev/javascripts/sections/artist/tracks.js:8135
+#: static/dev/javascripts/sections/composition-recordings.js:7539
+#: static/dev/javascripts/sections/composition.js:8128
+#: static/dev/javascripts/sections/recording.js:8053
+#: static/dev/javascripts/sections/tracks.js:7539
+msgid "Save Failed"
+msgstr "Save Failed"
+
+#: static/dev/javascripts/sections/settings/notifications.js:1064
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: static/dev/javascripts/sections/subform/app.js:7962
+msgid "Save all Track Artists/Credits"
+msgstr "Save all Track Artists/Credits"
+
+#: static/dev/javascripts/sections/cart.js:341
+msgid "Save and Continue"
+msgstr "Save and Continue"
+
+#: static/dev/javascripts/sections/order.js:1590
+msgid "Saved"
+msgstr "Saved"
+
+#: static/dev/javascripts/sections/subform/app.js:5671
+#, python-format
+msgid "Saved draft %(link)s at %(time)s"
+msgstr "Saved draft %(link)s at %(time)s"
+
+#: static/dev/javascripts/sections/artist.js:979
+#: static/dev/javascripts/sections/artist/tracks.js:8115
+#: static/dev/javascripts/sections/composition-recordings.js:7519
+#: static/dev/javascripts/sections/composition.js:8108
+#: static/dev/javascripts/sections/label.js:148
+#: static/dev/javascripts/sections/recording.js:8033
+#: static/dev/javascripts/sections/release.js:536
+#: static/dev/javascripts/sections/reviews.js:148
+#: static/dev/javascripts/sections/shipping.js:565
+#: static/dev/javascripts/sections/tracks.js:7519
+msgid "Saving"
+msgstr "Saving"
+
+#: static/dev/javascripts/sections/subform/app.js:5692
+msgid "Saving Draft"
+msgstr "Saving Draft"
+
+#: static/dev/javascripts/sections/artist/tracks.js:5554
+#: static/dev/javascripts/sections/collection-beta.js:2758
+#: static/dev/javascripts/sections/composition-edit.js:3735
+#: static/dev/javascripts/sections/composition-recordings.js:5363
+#: static/dev/javascripts/sections/composition.js:5547
+#: static/dev/javascripts/sections/fourohfour.js:32
+#: static/dev/javascripts/sections/recording.js:5472
+#: static/dev/javascripts/sections/tracks.js:5363
+msgid "Search"
+msgstr "Search"
+
+#: static/dev/javascripts/chunk-master-filtering.js:750
+msgid "Search Releases..."
+msgstr "Search Releases..."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:205
+msgid "Search again"
+msgstr "Search again"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:135
+#: static/dev/javascripts/sections/fourohfour.js:31
+msgid "Search artists, albums and more..."
+msgstr "Search artists, albums and more..."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:124
+msgid "Search for an album by title..."
+msgstr "Search for an album by title..."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:112
+msgid "Search for your Release"
+msgstr "Search for your Release"
+
+#: static/dev/javascripts/sections/composition-edit.js:6243
+#: static/dev/javascripts/sections/subform/app.js:2744
+msgid "Search in new window"
+msgstr "Search in new window"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11253
+#: static/dev/javascripts/sections/composition-recordings.js:10526
+#: static/dev/javascripts/sections/composition.js:11246
+#: static/dev/javascripts/sections/recording.js:11157
+#: static/dev/javascripts/sections/tracks.js:10526
+msgid "Select"
+msgstr "Select"
+
+#: static/dev/javascripts/sections/collection-beta.js:6744
+msgid "Select Media Condition"
+msgstr "Select Media Condition"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:146
+#: static/dev/javascripts/sections/collection-tutorial.js:180
+msgid "Select from the Search Results"
+msgstr "Select from the Search Results"
+
+#: static/dev/javascripts/sections/settings.js:4518
+msgid "Select licence side:"
+msgstr "Select licence side:"
+
+#: static/dev/javascripts/sections/settings.js:3933
+msgid "Select your country"
+msgstr "Select your country"
+
+#: static/dev/javascripts/sections/settings.js:3972
+msgid "Select your state"
+msgstr "Select your state"
+
+#: static/dev/javascripts/chunk-react-components.js:1736
+msgid "Selected Filters"
+msgstr "Selected Filters"
+
+#: static/dev/javascripts/sections/order.js:494
+#, python-format
+msgid ""
+"Selecting this checkbox will create a format-based <a href='%(url)s' "
+"target='_blank'>shipping policy</a>."
+msgstr ""
+"Selecting this checkbox will create a format-based <a href='%(url)s' "
+"target='_blank'>shipping policy</a>."
+
+#: static/dev/javascripts/chunk-react-components.js:941
+msgid "Sell This Item"
+msgstr "Sell This Item"
+
+#: static/dev/javascripts/chunk-offers.js:2270
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:692
+msgid "Seller Settings"
+msgstr "Seller Settings"
+
+#: static/dev/javascripts/sections/cart.js:860
+#: static/dev/javascripts/sections/feedback.js:43
+#: static/dev/javascripts/sections/guest-cart.js:3797
+#: static/dev/javascripts/sections/guest-cart.js:4576
+#: static/dev/javascripts/sections/marketplace-list.js:43
+#: static/dev/javascripts/sections/marketplace-seller-list.js:43
+#: static/dev/javascripts/sections/order.js:43
+msgid "Seller Terms"
+msgstr "Seller Terms"
+
+#: static/dev/javascripts/chunk-offers.js:1146
+#: static/dev/javascripts/chunk-react-components.js:3122
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:552
+#: static/dev/javascripts/sections/order.js:1224
+#: static/dev/javascripts/sections/order.js:1590
+msgid "Send Feedback"
+msgstr "Send Feedback"
+
+#: static/dev/javascripts/sections/order.js:1591
+msgid "Send Feedback About This Order"
+msgid_plural "Send Feedback About These Orders"
+msgstr[0] "Send Feedback About This Order"
+msgstr[1] "Send Feedback About These Orders"
+
+#: static/dev/javascripts/sections/order.js:415
+msgid "Send Refund"
+msgstr "Send Refund"
+
+#: static/dev/javascripts/chunk-offers.js:1140
+#: static/dev/javascripts/chunk-react-components.js:3116
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:546
+msgid "Sending feedback is not allowed after 90 days."
+msgstr "Sending feedback is not allowed after 90 days."
+
+#: static/dev/javascripts/sections/subform/app.js:5326
+msgid "Series"
+msgstr "Series"
+
+#: static/dev/javascripts/sections/order.js:1221
+msgid "Set Payment Pending"
+msgstr "Set Payment Pending"
+
+#: static/dev/javascripts/sections/order.js:1222
+msgid "Set Payment Received"
+msgstr "Set Payment Received"
+
+#: static/dev/javascripts/sections/order.js:1220
+msgid "Set Shipping Price and Invoice"
+msgstr "Set Shipping Price and Invoice"
+
+#: static/dev/javascripts/sections/order.js:1285
+msgid ""
+"Setting an order to shipped lets the buyer know that the package is on its "
+"way."
+msgstr ""
+"Setting an order to shipped lets the buyer know that the package is on its "
+"way."
+
+#: static/dev/javascripts/sections/collection-beta.js:12329
+msgid "Settings"
+msgstr "Settings"
+
+#: static/dev/javascripts/sections/settings.js:3130
+msgid "Setup your Account"
+msgstr "Setup your Account"
+
+#: static/dev/javascripts/sections/release.js:1271
+#: static/dev/javascripts/sections/search.js:118
+#: static/dev/javascripts/unit-test-bundle.js:1613
+msgid "Share"
+msgstr "Share"
+
+#: static/dev/javascripts/sections/release.js:1273
+#: static/dev/javascripts/sections/search.js:120
+#: static/dev/javascripts/unit-test-bundle.js:1615
+msgid "Shared on your profile"
+msgstr "Shared on your profile"
+
+#: static/dev/javascripts/sections/release.js:1276
+#: static/dev/javascripts/sections/search.js:123
+#: static/dev/javascripts/unit-test-bundle.js:1618
+msgid "Sharing Settings"
+msgstr "Sharing Settings"
+
+#: static/dev/javascripts/sections/release.js:1272
+#: static/dev/javascripts/sections/search.js:119
+#: static/dev/javascripts/unit-test-bundle.js:1614
+msgid "Sharing..."
+msgstr "Sharing..."
+
+#: static/dev/javascripts/sections/order.js:1177
+#: static/dev/javascripts/sections/order.js:1193
+msgid "Shipped"
+msgstr "Shipped"
+
+#: static/dev/javascripts/sections/guest-cart.js:3758
+msgid "Shipping"
+msgstr "Shipping"
+
+#: static/dev/javascripts/chunk-offers.js:2304
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:726
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+#: static/dev/javascripts/chunk-offers.js:2273
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:695
+msgid "Shipping Policies Settings"
+msgstr "Shipping Policies Settings"
+
+#: static/dev/javascripts/sections/order.js:493
+msgid "Shipping Policy Creation"
+msgstr "Shipping Policy Creation"
+
+#: static/dev/javascripts/marketplace/order/payment.js:43
+#: static/dev/javascripts/sections/marketplace/order/payment.js:47
+msgid ""
+"Shipping address cannot be changed after order is placed. Message the seller"
+" to ship to a different address."
+msgstr ""
+"Shipping address cannot be changed after order is placed. Message the seller"
+" to ship to a different address."
+
+#: static/dev/javascripts/sections/collection-beta.js:6979
+msgid "Shipping information"
+msgstr "Shipping information"
+
+#: static/dev/javascripts/sections/guest-cart.js:3370
+msgid "Shop for"
+msgstr "Shop for"
+
+#: static/dev/javascripts/sections/collection-beta.js:11621
+msgid "Show"
+msgstr "Show"
+
+#: static/dev/javascripts/discogs.js:18483
+msgid "Show Credits"
+msgstr "Show Credits"
+
+#: static/dev/javascripts/sections/marketplace-manage.js:10172
+msgid "Show actions"
+msgstr "Show actions"
+
+#: static/dev/javascripts/discogs.js:18302
+msgid "Show less"
+msgstr "Show less"
+
+#: static/dev/javascripts/sections/artist/tracks.js:7503
+#: static/dev/javascripts/sections/collection-beta.js:3395
+#: static/dev/javascripts/sections/composition-recordings.js:6907
+#: static/dev/javascripts/sections/composition.js:7496
+#: static/dev/javascripts/sections/recording.js:7421
+#: static/dev/javascripts/sections/tracks.js:6907
+msgid "Show less…"
+msgstr "Show less…"
+
+#: static/dev/javascripts/discogs.js:18299
+msgid "Show more"
+msgstr "Show more"
+
+#: static/dev/javascripts/sections/artist/tracks.js:7503
+#: static/dev/javascripts/sections/collection-beta.js:3395
+#: static/dev/javascripts/sections/composition-recordings.js:6907
+#: static/dev/javascripts/sections/composition.js:7496
+#: static/dev/javascripts/sections/recording.js:7421
+#: static/dev/javascripts/sections/tracks.js:6907
+msgid "Show more…"
+msgstr "Show more…"
+
+#: static/dev/javascripts/sections/cart.js:926
+#: static/dev/javascripts/sections/cart.js:927
+#: static/dev/javascripts/sections/guest-cart.js:2719
+#: static/dev/javascripts/sections/guest-cart.js:2720
+#: static/dev/javascripts/sections/marketplace-list.js:109
+#: static/dev/javascripts/sections/marketplace-list.js:110
+#: static/dev/javascripts/sections/marketplace-sell-item.js:56
+#: static/dev/javascripts/sections/marketplace-sell-item.js:57
+#: static/dev/javascripts/sections/marketplace.js:56
+#: static/dev/javascripts/sections/marketplace.js:57
+#: static/dev/javascripts/sections/order.js:109
+#: static/dev/javascripts/sections/order.js:110
+#: static/dev/javascripts/sections/quicklist.js:56
+#: static/dev/javascripts/sections/quicklist.js:57
+#: static/dev/javascripts/unit-test-bundle.js:1207
+#: static/dev/javascripts/unit-test-bundle.js:1208
+msgid "Significant scuffs or scratches. Will play through without problems."
+msgstr "Significant scuffs or scratches. Will play through without problems."
+
+#: static/dev/javascripts/sections/collection-beta.js:6795
+msgid "Sleeve Condition"
+msgstr "Sleeve Condition"
+
+#: static/dev/javascripts/sections/guest-cart.js:3982
+msgid "Sleeve: "
+msgstr "Sleeve: "
+
+#: static/dev/javascripts/sections/settings.js:3275
+#: static/dev/javascripts/sections/settings.js:3331
+#: static/dev/javascripts/sections/settings.js:3460
+#: static/dev/javascripts/sections/settings.js:3605
+#: static/dev/javascripts/sections/settings.js:4742
+#: static/dev/javascripts/sections/settings.js:4795
+msgid "Social Security Number"
+msgstr "Social Security Number"
+
+#: static/dev/javascripts/sections/artist.js:506
+#: static/dev/javascripts/sections/lists.js:63
+#: static/dev/javascripts/sections/release.js:63
+#: static/dev/javascripts/unit-test-bundle.js:826
+msgid ""
+"Some mobile devices will not allow playback until you first activate the "
+"YouTube player by tapping on it. If the video is not loading, refresh the "
+"page, then tap on the player."
+msgstr ""
+"Some mobile devices will not allow playback until you first activate the "
+"YouTube player by tapping on it. If the video is not loading, refresh the "
+"page, then tap on the player."
+
+#: static/dev/javascripts/sections/order.js:1067
+msgid "Some or all of the items in this order are unavailable."
+msgid_plural "Some or all of the items in these orders are unavailable."
+msgstr[0] "Some or all of the items in this order are unavailable."
+msgstr[1] "Some or all of the items in these orders are unavailable."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:385
+msgid ""
+"Some releases may appear identical, but only vary by\n"
+"information found in the Matrix / Runout codes or\n"
+"differing Barcodes. If you're still unsure that this\n"
+"Release is a match for your copy, it can be useful\n"
+"to compare these codes against your item’s packaging\n"
+"or the physical media."
+msgstr ""
+"Some releases may appear identical, but only vary by\n"
+"information found in the Matrix / Runout codes or\n"
+"differing Barcodes. If you're still unsure that this\n"
+"Release is a match for your copy, it can be useful\n"
+"to compare these codes against your item’s packaging\n"
+"or the physical media."
+
+#: static/dev/javascripts/discogs.js:19482
+#: static/dev/javascripts/sections/artist/tracks.js:4886
+#: static/dev/javascripts/sections/collection-beta.js:5543
+#: static/dev/javascripts/sections/composition-edit.js:3317
+#: static/dev/javascripts/sections/composition-recordings.js:4070
+#: static/dev/javascripts/sections/composition.js:4879
+#: static/dev/javascripts/sections/guest-cart.js:4505
+#: static/dev/javascripts/sections/recording.js:4793
+#: static/dev/javascripts/sections/tracks.js:4070
+msgid "Something went wrong, please try again later"
+msgstr "Something went wrong, please try again later"
+
+#: static/dev/javascripts/chunk-offers.js:1800
+msgid "Something went wrong. Please reload the page and try again."
+msgstr "Something went wrong. Please reload the page and try again."
+
+#: static/dev/javascripts/sections/fourohfour.js:27
+msgid "Sorry, this page could not be found."
+msgstr "Sorry, this page could not be found."
+
+#: static/dev/javascripts/sections/collection-beta.js:7903
+msgid "Sort By"
+msgstr "Sort By"
+
+#: static/dev/javascripts/sections/artist/tracks.js:9986
+#: static/dev/javascripts/sections/composition-recordings.js:9390
+#: static/dev/javascripts/sections/composition.js:9979
+#: static/dev/javascripts/sections/recording.js:9904
+#: static/dev/javascripts/sections/tracks.js:9390
+msgid "Sort by"
+msgstr "Sort by"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11304
+#: static/dev/javascripts/sections/composition-recordings.js:10577
+#: static/dev/javascripts/sections/composition.js:11297
+#: static/dev/javascripts/sections/recording.js:11208
+#: static/dev/javascripts/sections/tracks.js:10577
+msgid "Sort by My Collection"
+msgstr "Sort by My Collection"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11309
+#: static/dev/javascripts/sections/composition-recordings.js:10582
+#: static/dev/javascripts/sections/composition.js:11302
+#: static/dev/javascripts/sections/recording.js:11213
+#: static/dev/javascripts/sections/tracks.js:10582
+msgid "Sort by My Wantlist"
+msgstr "Sort by My Wantlist"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11289
+#: static/dev/javascripts/sections/composition-recordings.js:10562
+#: static/dev/javascripts/sections/composition.js:11282
+#: static/dev/javascripts/sections/recording.js:11193
+#: static/dev/javascripts/sections/tracks.js:10562
+msgid "Sort by Title"
+msgstr "Sort by Title"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11299
+#: static/dev/javascripts/sections/composition-recordings.js:10572
+#: static/dev/javascripts/sections/composition.js:11292
+#: static/dev/javascripts/sections/recording.js:11203
+#: static/dev/javascripts/sections/tracks.js:10572
+msgid "Sort by Track Count"
+msgstr "Sort by Track Count"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11294
+#: static/dev/javascripts/sections/composition-recordings.js:10567
+#: static/dev/javascripts/sections/composition.js:11287
+#: static/dev/javascripts/sections/recording.js:11198
+#: static/dev/javascripts/sections/tracks.js:10567
+msgid "Sort by Year"
+msgstr "Sort by Year"
+
+#: static/dev/javascripts/chunk-react-components.js:3498
+msgid "Staff"
+msgstr "Staff"
+
+#: static/dev/javascripts/sections/guest-cart.js:3398
+msgid "Start Shopping"
+msgstr "Start Shopping"
+
+#: static/dev/javascripts/sections/settings.js:3209
+#: static/dev/javascripts/sections/settings.js:3510
+#: static/dev/javascripts/sections/settings.js:3665
+#: static/dev/javascripts/sections/settings.js:3772
+#: static/dev/javascripts/sections/settings.js:4272
+#: static/dev/javascripts/sections/settings.js:4430
+msgid "State"
+msgstr "State"
+
+#: static/dev/javascripts/sections/collection-beta.js:12408
+msgid "Statistics"
+msgstr "Statistics"
+
+#: static/dev/javascripts/sections/upload-beta.js:482
+msgid "Status"
+msgstr "Status"
+
+#: static/dev/javascripts/sections/settings.js:3201
+#: static/dev/javascripts/sections/settings.js:3480
+#: static/dev/javascripts/sections/settings.js:3635
+#: static/dev/javascripts/sections/settings.js:3740
+#: static/dev/javascripts/sections/settings.js:4264
+#: static/dev/javascripts/sections/settings.js:4401
+msgid "Street"
+msgstr "Street"
+
+#: static/dev/javascripts/sections/composition-edit.js:6257
+#: static/dev/javascripts/sections/subform/app.js:2758
+msgid "Strict Search"
+msgstr "Strict Search"
+
+#: static/dev/javascripts/sections/artist/tracks.js:7642
+#: static/dev/javascripts/sections/collection-beta.js:3534
+#: static/dev/javascripts/sections/collection-beta.js:4125
+#: static/dev/javascripts/sections/collection-beta.js:4406
+#: static/dev/javascripts/sections/composition-edit.js:6045
+#: static/dev/javascripts/sections/composition-recordings.js:7046
+#: static/dev/javascripts/sections/composition.js:7635
+#: static/dev/javascripts/sections/recording.js:7560
+#: static/dev/javascripts/sections/subform/app.js:2546
+#: static/dev/javascripts/sections/tracks.js:7046
+msgid "Styles"
+msgstr "Styles"
+
+#: static/dev/javascripts/sections/subform/app.js:7684
+msgid "Sub-Track"
+msgstr "Sub-Track"
+
+#: static/dev/javascripts/sections/subform/app.js:5596
+msgid "Submission Form Keyboard Shortcuts"
+msgstr "Submission Form Keyboard Shortcuts"
+
+#: static/dev/javascripts/sections/subform/app.js:4660
+msgid "Submission Guidelines"
+msgstr "Submission Guidelines"
+
+#: static/dev/javascripts/sections/composition-edit.js:6047
+#: static/dev/javascripts/sections/subform/app.js:2548
+#: static/dev/javascripts/sections/subform/app.js:5406
+msgid "Submission Notes"
+msgstr "Submission Notes"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1512
+#: static/dev/javascripts/sections/image-uploader-app.js:1518
+#: static/dev/javascripts/sections/settings.js:1702
+#: static/dev/javascripts/sections/subform/app.js:1630
+msgid "Submission Notes (Required)"
+msgstr "Submission Notes (Required)"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1488
+#: static/dev/javascripts/sections/image-uploader-app.js:1494
+#: static/dev/javascripts/sections/settings.js:1678
+#: static/dev/javascripts/sections/subform/app.js:1606
+msgid "Submission notes are required"
+msgstr "Submission notes are required"
+
+#: static/dev/javascripts/sections/settings.js:5003
+#: static/dev/javascripts/sections/subform/app.js:5177
+msgid "Submit"
+msgstr "Submit"
+
+#: static/dev/javascripts/sections/collection-beta.js:12769
+msgid "Submit Feedback"
+msgstr "Submit Feedback"
+
+#: static/dev/javascripts/sections/guest-cart.js:3748
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: static/dev/javascripts/sections/artist/tracks.js:8125
+#: static/dev/javascripts/sections/composition-recordings.js:7529
+#: static/dev/javascripts/sections/composition.js:8118
+#: static/dev/javascripts/sections/recording.js:8043
+#: static/dev/javascripts/sections/settings.js:5101
+#: static/dev/javascripts/sections/tracks.js:7529
+msgid "Success"
+msgstr "Success"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:549
+msgid "Success!"
+msgstr "Success!"
+
+#: static/dev/javascripts/sections/settings.js:4777
+msgid "Tax ID"
+msgstr "Tax ID"
+
+#: static/dev/javascripts/sections/settings.js:3307
+#: static/dev/javascripts/sections/settings.js:3692
+msgid "Tax ID / EIN"
+msgstr "Tax ID / EIN"
+
+#: static/dev/javascripts/sections/subform/app.js:5171
+msgid ""
+"Test all hyperlinks and make sure they link to the correct artist/label"
+msgstr ""
+"Test all hyperlinks and make sure they link to the correct artist/label"
+
+#: static/dev/javascripts/sections/collection-beta.js:12779
+msgid "Thank you, your reply has been saved."
+msgstr "Thank you, your reply has been saved."
+
+#: static/dev/javascripts/sections/event-promo.js:54
+msgid "Thanks for entering!"
+msgstr "Thanks for entering!"
+
+#: static/dev/javascripts/sections/order.js:1069
+msgid "The buyer can leave feedback."
+msgstr "The buyer can leave feedback."
+
+#: static/dev/javascripts/sections/order.js:1105
+msgid "The buyer has not paid for this order."
+msgstr "The buyer has not paid for this order."
+
+#: static/dev/javascripts/sections/order.js:1107
+msgid "The buyer will automatically receive negative feedback."
+msgstr "The buyer will automatically receive negative feedback."
+
+#: static/dev/javascripts/sections/order.js:1086
+msgid "The buyer wishes to cancel this transaction."
+msgstr "The buyer wishes to cancel this transaction."
+
+#: static/dev/javascripts/sections/cart.js:922
+#: static/dev/javascripts/sections/guest-cart.js:2715
+#: static/dev/javascripts/sections/marketplace-list.js:105
+#: static/dev/javascripts/sections/marketplace-sell-item.js:52
+#: static/dev/javascripts/sections/marketplace.js:52
+#: static/dev/javascripts/sections/order.js:105
+#: static/dev/javascripts/sections/quicklist.js:52
+#: static/dev/javascripts/unit-test-bundle.js:1203
+msgid ""
+"The disc is in perfect condition. No scuffs or scratches, possibly still "
+"sealed."
+msgstr ""
+"The disc is in perfect condition. No scuffs or scratches, possibly still "
+"sealed."
+
+#: static/dev/javascripts/sections/cart.js:928
+#: static/dev/javascripts/sections/cart.js:929
+#: static/dev/javascripts/sections/guest-cart.js:2721
+#: static/dev/javascripts/sections/guest-cart.js:2722
+#: static/dev/javascripts/sections/marketplace-list.js:111
+#: static/dev/javascripts/sections/marketplace-list.js:112
+#: static/dev/javascripts/sections/marketplace-sell-item.js:58
+#: static/dev/javascripts/sections/marketplace-sell-item.js:59
+#: static/dev/javascripts/sections/marketplace.js:58
+#: static/dev/javascripts/sections/marketplace.js:59
+#: static/dev/javascripts/sections/order.js:111
+#: static/dev/javascripts/sections/order.js:112
+#: static/dev/javascripts/sections/quicklist.js:58
+#: static/dev/javascripts/sections/quicklist.js:59
+#: static/dev/javascripts/unit-test-bundle.js:1209
+#: static/dev/javascripts/unit-test-bundle.js:1210
+msgid "The disc may or may not play some or all of the tracks."
+msgstr "The disc may or may not play some or all of the tracks."
+
+#: static/dev/javascripts/sections/composition-edit.js:6053
+#: static/dev/javascripts/sections/subform/app.js:2554
+msgid "The following artists are new to the database"
+msgstr "The following artists are new to the database"
+
+#: static/dev/javascripts/sections/quicklist.js:767
+msgid "The following errors are preventing this item from being listed"
+msgstr "The following errors are preventing this item from being listed"
+
+#: static/dev/javascripts/sections/composition-edit.js:6054
+#: static/dev/javascripts/sections/subform/app.js:2555
+msgid "The following labels/companies are new to the database"
+msgstr "The following labels/companies are new to the database"
+
+#: static/dev/javascripts/chunk-offers.js:1341
+#, python-format
+msgid "The offer was accepted! <a href='%(url)s'>View Order #%(orderId)s.</a>"
+msgstr ""
+"The offer was accepted! <a href='%(url)s'>View Order #%(orderId)s.</a>"
+
+#: static/dev/javascripts/chunk-offers.js:1369
+msgid "The offer was declined."
+msgstr "The offer was declined."
+
+#: static/dev/javascripts/sections/order.js:496
+#, python-format
+msgid ""
+"The policy can be modified later in the <a href='%(url)s' "
+"target='_blank'>shipping policy editor</a>."
+msgstr ""
+"The policy can be modified later in the <a href='%(url)s' "
+"target='_blank'>shipping policy editor</a>."
+
+#: static/dev/javascripts/sections/upload-beta.js:455
+msgid ""
+"The uploader will then modify your inventory to make it match what's in the "
+"CSV."
+msgstr ""
+"The uploader will then modify your inventory to make it match what's in the "
+"CSV."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:199
+msgid ""
+"There are no search results for your query. Did\n"
+"you type the title exactly as it appears on the album?"
+msgstr ""
+"There are no search results for your query. Did\n"
+"you type the title exactly as it appears on the album?"
+
+#: static/dev/javascripts/javascripts/marketplace/order/purchase-to-collection.js:293
+#: static/dev/javascripts/marketplace/order/purchase-to-collection.js:124
+msgid ""
+"There was a problem adding items to your collection. Please try again later."
+msgstr ""
+"There was a problem adding items to your collection. Please try again later."
+
+#: static/dev/javascripts/sections/dashboard.js:255
+msgid "There was a problem loading this module. Please refresh the browser."
+msgstr "There was a problem loading this module. Please refresh the browser."
+
+#: static/dev/javascripts/sections/subform/app.js:5990
+msgid "There was an error connecting to the server."
+msgstr "There was an error connecting to the server."
+
+#: static/dev/javascripts/sections/subform/app.js:5080
+msgid "This field is required (minimum 4 characters)."
+msgstr "This field is required (minimum 4 characters)."
+
+#: static/dev/javascripts/sections/composition-edit.js:6063
+#: static/dev/javascripts/sections/subform/app.js:2564
+#: static/dev/javascripts/sections/subform/app.js:7760
+msgid ""
+"This is a legacy Duration value, shown so it can be converted to the new "
+"Index Track feature. Headings do not support Durations."
+msgstr ""
+"This is a legacy Duration value, shown so it can be converted to the new "
+"Index Track feature. Headings do not support Durations."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:550
+msgid ""
+"This item has been successfully added your Collection.\n"
+"Optionally, add media condition, sleeve condition, or\n"
+"notes to your collected item."
+msgstr ""
+"This item has been successfully added your Collection.\n"
+"Optionally, add media condition, sleeve condition, or\n"
+"notes to your collected item."
+
+#: static/dev/javascripts/sections/collection-beta.js:5458
+msgid "This item is blocked from being sold on the Marketplace."
+msgstr "This item is blocked from being sold on the Marketplace."
+
+#: static/dev/javascripts/sections/dashboard.js:433
+msgid "This list is already on your dashboard"
+msgstr "This list is already on your dashboard"
+
+#: static/dev/javascripts/sections/subform/app.js:7854
+msgid ""
+"This operation will overwrite all track positions with 1, 2, 3, etc. Are you"
+" sure you want to do this?"
+msgstr ""
+"This operation will overwrite all track positions with 1, 2, 3, etc. Are you"
+" sure you want to do this?"
+
+#: static/dev/javascripts/sections/order.js:2148
+#, python-format
+msgid "This order cannot be set to %(orderStatus)s."
+msgid_plural "Some or all of these orders cannot be set to %(orderStatus)s."
+msgstr[0] "This order cannot be set to %(orderStatus)s."
+msgstr[1] "Some or all of these orders cannot be set to %(orderStatus)s."
+
+#: static/dev/javascripts/discogs.js:17151
+#, python-format
+msgid "This release is rated %(value)s star"
+msgid_plural "This release is rated %(value)s stars"
+msgstr[0] "This release is rated %(value)s star"
+msgstr[1] "This release is rated %(value)s stars"
+
+#: static/dev/javascripts/sections/collection-beta.js:8119
+#: static/dev/javascripts/sections/composition-edit.js:6036
+#: static/dev/javascripts/sections/subform/app.js:2537
+#: static/dev/javascripts/sections/subform/app.js:7305
+#: static/dev/javascripts/sections/subform/app.js:7664
+#: static/dev/javascripts/sections/subform/app.js:7729
+msgid "Title"
+msgstr "Title"
+
+#: static/dev/javascripts/sections/collection-beta.js:5154
+msgid "Title A-Z"
+msgstr "Title A-Z"
+
+#: static/dev/javascripts/sections/collection-beta.js:5159
+msgid "Title Z-A"
+msgstr "Title Z-A"
+
+#: static/dev/javascripts/sections/subform/app.js:7970
+msgid "Title/Credits"
+msgstr "Title/Credits"
+
+#: static/dev/javascripts/sections/guest-cart.js:3701
+msgid "To be determined by seller"
+msgstr "To be determined by seller"
+
+#: static/dev/javascripts/sections/settings.js:4450
+msgid ""
+"To verify the bank account please upload a recent bank statement that "
+"includes the owners name provided above."
+msgstr ""
+"To verify the bank account please upload a recent bank statement that "
+"includes the owners name provided above."
+
+#: static/dev/javascripts/sections/settings.js:3137
+msgid "To where will Discogs send your proceeds?"
+msgstr "To where will Discogs send your proceeds?"
+
+#: static/dev/javascripts/sections/guest-cart.js:3768
+#: static/dev/javascripts/sections/order.js:1420
+msgid "Total"
+msgstr "Total"
+
+#: static/dev/javascripts/sections/subform/app.js:7684
+msgid "Track"
+msgstr "Track"
+
+#: static/dev/javascripts/sections/subform/app.js:6420
+msgid "Track Positions"
+msgstr "Track Positions"
+
+#: static/dev/javascripts/sections/artist/tracks.js:12021
+#: static/dev/javascripts/sections/composition-recordings.js:11230
+#: static/dev/javascripts/sections/composition.js:12014
+#: static/dev/javascripts/sections/recording.js:11925
+#: static/dev/javascripts/sections/tracks.js:11230
+msgid "Track Title"
+msgstr "Track Title"
+
+#: static/dev/javascripts/sections/order.js:2162
+msgid "Tracking number (optional)"
+msgstr "Tracking number (optional)"
+
+#: static/dev/javascripts/sections/composition-edit.js:6042
+#: static/dev/javascripts/sections/subform/app.js:2543
+#: static/dev/javascripts/sections/subform/app.js:4986
+#: static/dev/javascripts/sections/subform/app.js:7956
+msgid "Tracklist"
+msgstr "Tracklist"
+
+#: static/dev/javascripts/sections/artist/tracks.js:11011
+#: static/dev/javascripts/sections/composition-recordings.js:10340
+#: static/dev/javascripts/sections/composition.js:11004
+#: static/dev/javascripts/sections/tracks.js:10340
+msgid ""
+"Tracks belonging to multiple Compositions will be migrated to the selected "
+"Composition. Track-specific metadata will remain associated with the "
+"migrated Tracks."
+msgstr ""
+"Tracks belonging to multiple Compositions will be migrated to the selected "
+"Composition. Track-specific metadata will remain associated with the "
+"migrated Tracks."
+
+#: static/dev/javascripts/sections/artist/tracks.js:11013
+#: static/dev/javascripts/sections/composition.js:11006
+msgid ""
+"Tracks belonging to multiple Recordings will be migrated to the selected "
+"Recording. Track-specific metadata will remain associated with the migrated "
+"Tracks."
+msgstr ""
+"Tracks belonging to multiple Recordings will be migrated to the selected "
+"Recording. Track-specific metadata will remain associated with the migrated "
+"Tracks."
+
+#: static/dev/javascripts/sections/recording.js:10933
+msgid ""
+"Tracks belonging to multiple s will be migrated to the selected . Track-"
+"specific metadata will remain associated with the migrated Tracks."
+msgstr ""
+"Tracks belonging to multiple s will be migrated to the selected . Track-"
+"specific metadata will remain associated with the migrated Tracks."
+
+#: static/dev/javascripts/sections/subform/app.js:4642
+msgid "Turn on Help"
+msgstr "Turn on Help"
+
+#: static/dev/javascripts/sections/settings.js:4891
+msgid "Type"
+msgstr "Type"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:113
+#, python-format
+msgid ""
+"Type the title of the Release you'd like to add\n"
+"to your Collection and hit the \"Enter\" key.\n"
+"%(em)sFor best results you should have the Release on\n"
+"hand for quick reference. This tutorial should take\n"
+"approximately 5-10 minutes.%(emclose)s"
+msgstr ""
+"Type the title of the Release you'd like to add\n"
+"to your Collection and hit the \"Enter\" key.\n"
+"%(em)sFor best results you should have the Release on\n"
+"hand for quick reference. This tutorial should take\n"
+"approximately 5-10 minutes.%(emclose)s"
+
+#: static/dev/javascripts/sections/settings/notifications.js:1191
+msgid "Uh-oh!"
+msgstr "Uh-oh!"
+
+#: static/dev/javascripts/sections/order.js:1226
+msgid "Un-Archive"
+msgstr "Un-Archive"
+
+#: static/dev/javascripts/sections/marketplace-manage.js:10282
+msgid "Unable to estimate from release data"
+msgstr "Unable to estimate from release data"
+
+#: static/dev/javascripts/sections/release.js:1274
+#: static/dev/javascripts/sections/search.js:121
+#: static/dev/javascripts/unit-test-bundle.js:1616
+msgid "Undo"
+msgstr "Undo"
+
+#: static/dev/javascripts/sections/release.js:1275
+#: static/dev/javascripts/sections/search.js:122
+#: static/dev/javascripts/unit-test-bundle.js:1617
+msgid "Unsharing..."
+msgstr "Unsharing..."
+
+#: static/dev/javascripts/sections/settings/notifications.js:1078
+msgid "Unsubscribe From Emails..."
+msgstr "Unsubscribe From Emails..."
+
+#: static/dev/javascripts/sections/upload-beta.js:292
+msgid "Upload CSV File"
+msgstr "Upload CSV File"
+
+#: static/dev/javascripts/sections/settings.js:4555
+msgid "Upload Document"
+msgstr "Upload Document"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1431
+#: static/dev/javascripts/sections/image-uploader-app.js:1437
+#: static/dev/javascripts/sections/settings.js:1621
+#: static/dev/javascripts/sections/subform/app.js:1549
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1264
+#: static/dev/javascripts/sections/image-uploader-app.js:1270
+#: static/dev/javascripts/sections/settings.js:1454
+#: static/dev/javascripts/sections/subform/app.js:1382
+msgid "Uploaded by"
+msgstr "Uploaded by"
+
+#: static/dev/javascripts/sections/settings.js:5108
+msgid "Uploading"
+msgstr "Uploading"
+
+#: static/dev/javascripts/sections/shipping.js:449
+msgid "Upper limit cannot be negative"
+msgstr "Upper limit cannot be negative"
+
+#: static/dev/javascripts/sections/settings.js:3418
+msgid "Use my Discogs Information"
+msgstr "Use my Discogs Information"
+
+#: static/dev/javascripts/sections/collection-beta.js:6570
+#, python-format
+msgid ""
+"Use the %(openLinkTag)sshipping policy%(closeLinkTag)s editor to "
+"automatically calculate shipping costs so buyers can pay for orders "
+"immediately."
+msgstr ""
+"Use the %(openLinkTag)sshipping policy%(closeLinkTag)s editor to "
+"automatically calculate shipping costs so buyers can pay for orders "
+"immediately."
+
+#: static/dev/javascripts/sections/order.js:1592
+msgid "Use the <strong>order page</strong> to contact the buyer."
+msgstr "Use the <strong>order page</strong> to contact the buyer."
+
+#: static/dev/javascripts/sections/order.js:1592
+msgid "Use the <strong>order page</strong> to contact the seller."
+msgstr "Use the <strong>order page</strong> to contact the seller."
+
+#: static/dev/javascripts/sections/collection-beta.js:12209
+msgid "Values based on last 10 sales."
+msgstr "Values based on last 10 sales."
+
+#: static/dev/javascripts/sections/collection-beta.js:6764
+#: static/dev/javascripts/sections/collection-beta.js:6836
+msgid "Very Good (VG)"
+msgstr "Very Good (VG)"
+
+#: static/dev/javascripts/sections/collection-beta.js:6759
+#: static/dev/javascripts/sections/collection-beta.js:6831
+msgid "Very Good Plus (VG+)"
+msgstr "Very Good Plus (VG+)"
+
+#: static/dev/javascripts/discogs.js:14278
+msgid "Very Weak"
+msgstr "Very Weak"
+
+#: static/dev/javascripts/image/image-uploader-app.js:1273
+#: static/dev/javascripts/sections/image-uploader-app.js:1279
+#: static/dev/javascripts/sections/settings.js:1463
+#: static/dev/javascripts/sections/subform/app.js:1391
+msgid "View"
+msgstr "View"
+
+#: static/dev/javascripts/sections/guest-cart.js:3780
+#: static/dev/javascripts/sections/guest-cart.js:3787
+msgid "View "
+msgstr "View "
+
+#: static/dev/javascripts/image/image-uploader-app.js:1178
+#: static/dev/javascripts/sections/image-uploader-app.js:1184
+#: static/dev/javascripts/sections/settings.js:1368
+#: static/dev/javascripts/sections/subform/app.js:1296
+msgid "View Image"
+msgstr "View Image"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:493
+msgid "View all Versions"
+msgstr "View all Versions"
+
+#: static/dev/javascripts/sections/guest-cart.js:4124
+msgid "View more items from this seller"
+msgstr "View more items from this seller"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:560
+msgid "View my Collection"
+msgstr "View my Collection"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:415
+msgid ""
+"Viewing the Image Gallery can be a quick and efficient\n"
+"way to ensure accuracy by comparing your item's\n"
+"packaging and physical media against the Images."
+msgstr ""
+"Viewing the Image Gallery can be a quick and efficient\n"
+"way to ensure accuracy by comparing your item's\n"
+"packaging and physical media against the Images."
+
+#: static/dev/javascripts/sections/collection-tutorial.js:434
+msgid ""
+"Viewing the Image Gallery can be a quick way to ensure\n"
+"accuracy by comparing your item’s packaging and\n"
+"physical media against the Images."
+msgstr ""
+"Viewing the Image Gallery can be a quick way to ensure\n"
+"accuracy by comparing your item’s packaging and\n"
+"physical media against the Images."
+
+#: static/dev/javascripts/sections/guest-cart.js:3376
+msgid "Vinyl"
+msgstr "Vinyl"
+
+#: static/dev/javascripts/sections/history-form.js:114
+msgid "Vote and Post Comment"
+msgstr "Vote and Post Comment"
+
+#: static/dev/javascripts/sections/cart.js:1027
+#: static/dev/javascripts/sections/collection.js:123
+#: static/dev/javascripts/sections/settings.js:1769
+#: static/dev/javascripts/sections/subform/app.js:5918
+msgid "WARNING: You have unsaved changes."
+msgstr "WARNING: You have unsaved changes."
+
+#: static/dev/javascripts/sections/artist.js:417
+msgid "Warning"
+msgstr "Warning"
+
+#: static/dev/javascripts/sections/subform/app.js:5038
+msgid "Warnings"
+msgstr "Warnings"
+
+#: static/dev/javascripts/chunk-offers.js:2104
+msgid "We couldn't find that page."
+msgstr "We couldn't find that page."
+
+#: static/dev/javascripts/sections/settings/notifications.js:1196
+msgid "We couldn't load what we needed to adjust the notification settings."
+msgstr "We couldn't load what we needed to adjust the notification settings."
+
+#: static/dev/javascripts/sections/composition-edit.js:6052
+#: static/dev/javascripts/sections/subform/app.js:2553
+msgid "We found possible duplicate releases"
+msgstr "We found possible duplicate releases"
+
+#: static/dev/javascripts/chunk-offers.js:531
+#: static/dev/javascripts/chunk-react-components.js:1474
+#: static/dev/javascripts/chunk-seller-settings-loader.js:605
+#: static/dev/javascripts/javascripts/marketplace/loaders/seller-settings-loader.js:615
+#: static/dev/javascripts/marketplace/loaders/seller-settings-loader.js:726
+#: static/dev/javascripts/sections/leaderboard.js:1084
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:310
+#, python-format
+msgid ""
+"We have made some updates, please %(linkStart)s reload the page to see "
+"them.%(linkEnd)s"
+msgstr ""
+"We have made some updates, please %(linkStart)s reload the page to see "
+"them.%(linkEnd)s"
+
+#: static/dev/javascripts/sections/composition-edit.js:6055
+#: static/dev/javascripts/sections/subform/app.js:2556
+msgid ""
+"We think you may be using some incorrect artists. Please double-check these "
+"to make sure you are using the correct artist"
+msgstr ""
+"We think you may be using some incorrect artists. Please double-check these "
+"to make sure you are using the correct artist"
+
+#: static/dev/javascripts/discogs.js:14278
+msgid "Weak"
+msgstr "Weak"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:238
+#, python-format
+msgid "Welcome to the %(listType)s!"
+msgstr "Welcome to the %(listType)s!"
+
+#: static/dev/javascripts/sections/order.js:347
+msgid "What do you want to do with the removed item?"
+msgid_plural "What do you want to do with the removed items?"
+msgstr[0] "What do you want to do with the removed item?"
+msgstr[1] "What do you want to do with the removed items?"
+
+#: static/dev/javascripts/sections/collection-beta.js:12753
+msgid "What statistics would you like to see about your Collection?"
+msgstr "What statistics would you like to see about your Collection?"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:48
+msgid ""
+"When an artist in your Wantlist or Collection shares news about a new "
+"release, or a new collectible becomes available."
+msgstr ""
+"When an artist in your Wantlist or Collection shares news about a new "
+"release, or a new collectible becomes available."
+
+#: static/dev/javascripts/sections/collection-beta.js:6937
+msgid ""
+"When an item listed in the Marketplace has a 'Make Offer' button it means "
+"the seller is willing to consider offers on that item."
+msgstr ""
+"When an item listed in the Marketplace has a 'Make Offer' button it means "
+"the seller is willing to consider offers on that item."
+
+#: static/dev/javascripts/sections/settings.js:4377
+msgid "Where can I find routing and account numbers?"
+msgstr "Where can I find routing and account numbers?"
+
+#: static/dev/javascripts/sections/homepage-registration.js:39
+msgid "Where did you hear about us? (Optional)"
+msgstr "Where did you hear about us? (Optional)"
+
+#: static/dev/javascripts/sections/homepage-registration.js:47
+msgid "Which record fair?"
+msgstr "Which record fair?"
+
+#: static/dev/javascripts/sections/order.js:1050
+msgid "Why are you canceling this order?"
+msgid_plural "Why are you canceling these orders?"
+msgstr[0] "Why are you canceling this order?"
+msgstr[1] "Why are you canceling these orders?"
+
+#: static/dev/javascripts/sections/cart.js:914
+#: static/dev/javascripts/sections/cart.js:924
+#: static/dev/javascripts/sections/guest-cart.js:2707
+#: static/dev/javascripts/sections/guest-cart.js:2717
+#: static/dev/javascripts/sections/marketplace-list.js:97
+#: static/dev/javascripts/sections/marketplace-list.js:107
+#: static/dev/javascripts/sections/marketplace-sell-item.js:44
+#: static/dev/javascripts/sections/marketplace-sell-item.js:54
+#: static/dev/javascripts/sections/marketplace.js:44
+#: static/dev/javascripts/sections/marketplace.js:54
+#: static/dev/javascripts/sections/order.js:97
+#: static/dev/javascripts/sections/order.js:107
+#: static/dev/javascripts/sections/quicklist.js:44
+#: static/dev/javascripts/sections/quicklist.js:54
+#: static/dev/javascripts/unit-test-bundle.js:1195
+#: static/dev/javascripts/unit-test-bundle.js:1205
+msgid ""
+"Will show some signs that it was played and otherwise handled by a previous "
+"owner who took good care of it."
+msgstr ""
+"Will show some signs that it was played and otherwise handled by a previous "
+"owner who took good care of it."
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:182
+#, python-format
+msgid ""
+"Would you like to make your  %(listType)s public? This will make your  "
+"%(listType)s visible to others."
+msgstr ""
+"Would you like to make your  %(listType)s public? This will make your  "
+"%(listType)s visible to others."
+
+#: static/dev/javascripts/chunk-master-filtering.js:778
+#: static/dev/javascripts/sections/artist/tracks.js:11341
+#: static/dev/javascripts/sections/artist/tracks.js:11377
+#: static/dev/javascripts/sections/artist/tracks.js:12041
+#: static/dev/javascripts/sections/collection-beta.js:8125
+#: static/dev/javascripts/sections/composition-recordings.js:10614
+#: static/dev/javascripts/sections/composition-recordings.js:10650
+#: static/dev/javascripts/sections/composition-recordings.js:11250
+#: static/dev/javascripts/sections/composition.js:11334
+#: static/dev/javascripts/sections/composition.js:11370
+#: static/dev/javascripts/sections/composition.js:12034
+#: static/dev/javascripts/sections/recording.js:11245
+#: static/dev/javascripts/sections/recording.js:11281
+#: static/dev/javascripts/sections/recording.js:11945
+#: static/dev/javascripts/sections/tracks.js:10614
+#: static/dev/javascripts/sections/tracks.js:10650
+#: static/dev/javascripts/sections/tracks.js:11250
+msgid "Year"
+msgstr "Year"
+
+#: static/dev/javascripts/sections/collection-beta.js:5194
+msgid "Year 0-9"
+msgstr "Year 0-9"
+
+#: static/dev/javascripts/sections/collection-beta.js:5199
+msgid "Year 9-0"
+msgstr "Year 9-0"
+
+#: static/dev/javascripts/sections/collection-tutorial.js:463
+msgid "Yes"
+msgstr "Yes"
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:226
+msgid "Yes!"
+msgstr "Yes!"
+
+#: static/dev/javascripts/sections/collection-beta.js:8034
+msgid "Yes, delete"
+msgstr "Yes, delete"
+
+#: static/dev/javascripts/sections/shipping.js:60
+#, python-format
+msgid "You accept orders from %(emphasis)sthe entire world%(endEmphasis)s."
+msgstr "You accept orders from %(emphasis)sthe entire world%(endEmphasis)s."
+
+#: static/dev/javascripts/sections/shipping.js:59
+#, python-format
+msgid "You accept orders from %(link)s%(n)s country%(endLink)s."
+msgid_plural "You accept orders from %(link)s%(n)s countries%(endLink)s."
+msgstr[0] "You accept orders from %(link)s%(n)s country%(endLink)s."
+msgstr[1] "You accept orders from %(link)s%(n)s countries%(endLink)s."
+
+#: static/dev/javascripts/sections/shipping.js:58
+#, python-format
+msgid "You accept orders from %(listOfCountries)s."
+msgstr "You accept orders from %(listOfCountries)s."
+
+#: static/dev/javascripts/sections/shipping.js:56
+msgid "You accept orders from:"
+msgstr "You accept orders from:"
+
+#: static/dev/javascripts/sections/subform/app.js:5837
+msgid ""
+"You are limited to one submission per minute. Please wait and try again."
+msgstr ""
+"You are limited to one submission per minute. Please wait and try again."
+
+#: static/dev/javascripts/chunk-public-settings-modal.js:51
+msgid "You can always change these later in your settings!"
+msgstr "You can always change these later in your settings!"
+
+#: static/dev/javascripts/sections/settings.js:3130
+msgid ""
+"You can now offer your buyers a safe and secure method for direct on-site "
+"payment! We will automatically bundle the proceeds of your credit card "
+"transactions and transfer them to the bank account you specify at setup."
+msgstr ""
+"You can now offer your buyers a safe and secure method for direct on-site "
+"payment! We will automatically bundle the proceeds of your credit card "
+"transactions and transfer them to the bank account you specify at setup."
+
+#: static/dev/javascripts/sections/shipping.js:480
+#, python-format
+msgid ""
+"You can't have more than one %(shippingMethod)s shipping method in the same "
+"policy"
+msgstr ""
+"You can't have more than one %(shippingMethod)s shipping method in the same "
+"policy"
+
+#: static/dev/javascripts/sections/feedback.js:132
+msgid "You did not choose a rating."
+msgstr "You did not choose a rating."
+
+#: static/dev/javascripts/sections/feedback.js:137
+msgid "You did not enter a comment."
+msgstr "You did not enter a comment."
+
+#: static/dev/javascripts/sections/shipping.js:62
+#, python-format
+msgid "You do not accept orders from %(link)s%(n)s country%(endLink)s."
+msgid_plural ""
+"You do not accept orders from %(link)s%(n)s countries%(endLink)s."
+msgstr[0] "You do not accept orders from %(link)s%(n)s country%(endLink)s."
+msgstr[1] "You do not accept orders from %(link)s%(n)s countries%(endLink)s."
+
+#: static/dev/javascripts/sections/shipping.js:61
+#, python-format
+msgid "You do not accept orders from %(listOfCountries)s."
+msgstr "You do not accept orders from %(listOfCountries)s."
+
+#: static/dev/javascripts/sections/shipping.js:57
+msgid "You do not accept orders from:"
+msgstr "You do not accept orders from:"
+
+#: static/dev/javascripts/chunk-offers.js:1568
+#, python-format
+msgid "You have %(n)s %(type)s offer."
+msgid_plural "You have %(n)s %(type)s offers."
+msgstr[0] "You have %(n)s %(type)s offer."
+msgstr[1] "You have %(n)s %(type)s offers."
+
+#: static/dev/javascripts/sections/guest-cart.js:3460
+#, python-format
+msgid "You have %(n)s item in your cart"
+msgid_plural "You have %(n)s items in your cart"
+msgstr[0] "You have %(n)s item in your cart"
+msgstr[1] "You have %(n)s items in your cart"
+
+#: static/dev/javascripts/sections/order.js:1043
+msgid "You have already cancelled this order"
+msgid_plural "You have already cancelled some or all of these orders"
+msgstr[0] "You have already cancelled this order"
+msgstr[1] "You have already cancelled some or all of these orders"
+
+#: static/dev/javascripts/sections/order.js:1606
+msgid "You have already left feedback for this order."
+msgid_plural "You have already left feedback for some or all of these orders."
+msgstr[0] "You have already left feedback for this order."
+msgstr[1] "You have already left feedback for some or all of these orders."
+
+#: static/dev/javascripts/chunk-offers.js:1129
+#: static/dev/javascripts/chunk-react-components.js:3105
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:535
+msgid "You haven't received feedback yet."
+msgstr "You haven't received feedback yet."
+
+#: static/dev/javascripts/chunk-offers.js:1127
+#: static/dev/javascripts/chunk-offers.js:1128
+#: static/dev/javascripts/chunk-react-components.js:3103
+#: static/dev/javascripts/chunk-react-components.js:3104
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:533
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:534
+msgid "You haven't sent feedback yet."
+msgstr "You haven't sent feedback yet."
+
+#: static/dev/javascripts/sections/shipping.js:682
+msgid "You must add another policy before deleting this one"
+msgstr "You must add another policy before deleting this one"
+
+#: static/dev/javascripts/sections/cart.js:406
+msgid "You must agree to the order terms to continue"
+msgstr "You must agree to the order terms to continue"
+
+#: static/dev/javascripts/sections/history-form.js:84
+msgid "You must post a comment with this type of vote"
+msgstr "You must post a comment with this type of vote"
+
+#: static/dev/javascripts/sections/history-form.js:218
+msgid "You must provide a reason for removing this release."
+msgstr "You must provide a reason for removing this release."
+
+#: static/dev/javascripts/sections/shipping.js:437
+msgid "You must select a format for each range"
+msgstr "You must select a format for each range"
+
+#: static/dev/javascripts/sections/shipping.js:494
+msgid "You must select at least one destination"
+msgstr "You must select at least one destination"
+
+#: static/dev/javascripts/sections/order.js:1284
+msgid ""
+"You should change orders to \"Payment Received\" to confirm that the payment"
+" has been received. After this, you should prepare the order for shipment!"
+msgstr ""
+"You should change orders to \"Payment Received\" to confirm that the payment"
+" has been received. After this, you should prepare the order for shipment!"
+
+#: static/dev/javascripts/sections/order.js:1286
+msgid "You want to set the order back to Invoice Sent status?"
+msgstr "You want to set the order back to Invoice Sent status?"
+
+#: static/dev/javascripts/sections/collection-beta.js:6458
+#, python-format
+msgid ""
+"You've listed %(r_title)s! See your listing %(open_tag)shere%(close_tag)s."
+msgstr ""
+"You've listed %(r_title)s! See your listing %(open_tag)shere%(close_tag)s."
+
+#: static/dev/javascripts/sections/settings.js:3468
+msgid "Your Address"
+msgstr "Your Address"
+
+#: static/dev/javascripts/sections/guest-cart.js:3248
+msgid ""
+"Your cart can hold items from many different sellers. When you're ready to "
+"check out, you'll place one order with each seller."
+msgstr ""
+"Your cart can hold items from many different sellers. When you're ready to "
+"check out, you'll place one order with each seller."
+
+#: static/dev/javascripts/sections/guest-cart.js:3365
+msgid "Your cart is empty"
+msgstr "Your cart is empty"
+
+#: static/dev/javascripts/image/image-uploader-app.js:630
+#: static/dev/javascripts/sections/image-uploader-app.js:820
+#: static/dev/javascripts/sections/settings.js:820
+#: static/dev/javascripts/sections/subform/app.js:748
+msgid "Your changes couldn't be saved. Please try again."
+msgstr "Your changes couldn't be saved. Please try again."
+
+#: static/dev/javascripts/sections/settings.js:5110
+msgid ""
+"Your information is being uploaded. This could take up to 5 minutes to "
+"complete."
+msgstr ""
+"Your information is being uploaded. This could take up to 5 minutes to "
+"complete."
+
+#: static/dev/javascripts/sections/settings.js:5103
+msgid "Your information was successfully submitted."
+msgstr "Your information was successfully submitted."
+
+#: static/dev/javascripts/sections/marketplace.js:204
+msgid "about"
+msgstr "about"
+
+#: static/dev/javascripts/sections/upload-beta.js:561
+msgid "additions"
+msgstr "additions"
+
+#: static/dev/javascripts/discogs.js:15822
+msgid "all versions"
+msgstr "all versions"
+
+#: static/dev/javascripts/sections/guest-cart.js:3385
+msgid "and "
+msgstr "and "
+
+#: static/dev/javascripts/sections/subform/app.js:6168
+msgid "artist"
+msgstr "artist"
+
+#: static/dev/javascripts/sections/subform/app.js:6272
+msgid "barcode or other identifier"
+msgstr "barcode or other identifier"
+
+#: static/dev/javascripts/chunk-offers.js:1002
+#: static/dev/javascripts/chunk-react-components.js:2978
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:408
+msgid "buyer"
+msgstr "buyer"
+
+#: static/dev/javascripts/chunk-react-components.js:681
+msgid "by"
+msgstr "by"
+
+#: static/dev/javascripts/sections/collection-beta.js:6963
+msgid "change currency"
+msgstr "change currency"
+
+#: static/dev/javascripts/sections/upload-beta.js:568
+msgid "changes"
+msgstr "changes"
+
+#: static/dev/javascripts/discogs.js:18753
+msgid "close"
+msgstr "close"
+
+#: static/dev/javascripts/sections/subform/app.js:6437
+msgid "credit"
+msgstr "credit"
+
+#: static/dev/javascripts/sections/order.js:1667
+msgid "e.g. Quick response, fast service, good communication"
+msgstr "e.g. Quick response, fast service, good communication"
+
+#: static/dev/javascripts/sections/upload-beta.js:418
+msgid "error"
+msgid_plural "errors"
+msgstr[0] "error"
+msgstr[1] "errors"
+
+#: static/dev/javascripts/sections/subform/app.js:6693
+msgid "format"
+msgstr "format"
+
+#: static/dev/javascripts/sections/messages.js:46
+msgid "generating preview..."
+msgstr "generating preview..."
+
+#: static/dev/javascripts/sections/collection-beta.js:7000
+msgid "grams"
+msgstr "grams"
+
+#: static/dev/javascripts/sections/collection-beta.js:7014
+msgid "items"
+msgstr "items"
+
+#: static/dev/javascripts/sections/subform/app.js:6852
+msgid "label"
+msgstr "label"
+
+#: static/dev/javascripts/sections/guest-cart.js:3389
+msgid "more in the Discogs Marketplace"
+msgstr "more in the Discogs Marketplace"
+
+#: static/dev/javascripts/sections/composition-edit.js:6273
+#: static/dev/javascripts/sections/subform/app.js:2774
+msgid "not found"
+msgstr "not found"
+
+#: static/dev/javascripts/sections/collection-beta.js:11706
+msgid "of"
+msgstr "of"
+
+#: static/dev/javascripts/sections/upload-beta.js:575
+msgid "removals"
+msgstr "removals"
+
+#: static/dev/javascripts/chunk-offers.js:1002
+#: static/dev/javascripts/chunk-react-components.js:2978
+#: static/dev/javascripts/sections/marketplace/marketplace-shared.js:408
+msgid "seller"
+msgstr "seller"
+
+#: static/dev/javascripts/sections/subform/app.js:7149
+msgid "style"
+msgstr "style"
+
+#: static/dev/javascripts/sections/settings.js:4995
+msgid "terms & conditions"
+msgstr "terms & conditions"
+
+#: static/dev/javascripts/sections/subform/app.js:4722
+msgid "tracks"
+msgstr "tracks"
+
+#: static/dev/javascripts/sections/composition-edit.js:6273
+#: static/dev/javascripts/sections/subform/app.js:2774
+msgid "will be added to the Database"
+msgstr "will be added to the Database"
