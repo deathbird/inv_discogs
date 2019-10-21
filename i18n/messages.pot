@@ -82,8 +82,8 @@ msgid " %(date)s | Submission Leaderboard | Discogs"
 msgstr " %(date)s | Submission Leaderboard | Discogs"
 
 #: views/m/_macro.html:272
-msgid " -- (not including shipping)"
-msgstr " -- (not including shipping)"
+msgid " --- (not including shipping)"
+msgstr " --- (not including shipping)"
 
 #: views/marketplace/order/modules/_feedback.html:94
 msgid ""
