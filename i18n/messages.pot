@@ -104,8 +104,8 @@ msgstr " No %(type)s feedback"
 
 #: views/emails/user-welcome.mail:4
 #, python-format
-msgid " Welcome To... Discogs %(username)s! "
-msgstr " Welcome To... Discogs %(username)s! "
+msgid " Welcome To._. Discogs %(username)s! "
+msgstr " Welcome To._. Discogs %(username)s! "
 
 #: controllers/label.py:207 controllers/release.py:284
 msgid " album cover"
