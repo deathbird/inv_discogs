@@ -94,8 +94,8 @@ msgstr ""
 "do.</strong>"
 
 #: views/tracks/layout.html:187
-msgid " First Appeared on"
-msgstr " First Appeared on"
+msgid " First 1st Appeared on"
+msgstr " First 1st Appeared on"
 
 #: views/marketplace/feedback/view.html:218
 #, python-format
